@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/x-icon" href="{{site.favicon | relative_url}}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">XI YANG (杨希)</a></h1>
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>
+          <b>Contact</b>
+          <small>
+            <br/>
+            <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1331861">SSRN Page</a>
+            <br/>
+            <a href="https://scholar.google.com/citations?user=53Hr2jgAAAAJ&hl=en">Google Scholar</a>
+            <br/>
+            <a href="mailto:xi.yang@unt.edu">Xi.Yang@UNT.edu</a>
+            <br/>
+            <a href="https://twitter.com/SheenEcon">@SheenEcon/Twitter</a>
+          </small>
+        </p>
+      </header>
+
+      <section>
+        <div class="navbar">
+          <table>
+            <tbody>
+              <tr>
+                <td><a href="index.html">Home</a></td>
+                <td><a href="{{site.cv | relative_url}}">CV</a></td>
+                <td><a href="./teaching.html">Teaching</a></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>  
+
+      {{ content }}
+
+      </section>
+      <footer>
+
+        <!-- 
+        {% if site.github.is_project_page %}
+          <p>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        -->
+
+        <p><small>Hosted on GitHub Pages<br/> &mdash; Theme by <a href="https://github.com/pages-themes">GitHub Pages themes</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

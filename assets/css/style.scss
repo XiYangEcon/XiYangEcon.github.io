@@ -1,0 +1,133 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #980000;
+    font-family: "Helvetica Neue", "Noto Sans", sans-serif;
+    margin: 10px 0;
+}
+
+p,
+ul,
+ol,
+table,
+pre,
+dl,
+img {
+    margin: 20px 0 0;
+}
+
+details p {
+    margin: 0 16px;
+}
+
+details summary:hover,
+details summary:focus {
+    color: #980000;
+    font-weight: bold;
+}
+
+a {
+    color: #980000;
+}
+
+a:hover,
+a:focus {
+    color: #980000;
+    font-weight: bold;
+}
+
+small {
+    font-size: 14px;
+}
+
+body {
+    font: 16px/1.5 Lato, sans-serif;
+    color: #212121;
+}
+
+.navbar {
+    width: 600px;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+}
+
+.navbar table {
+    table-layout: fixed;
+}
+
+.navbar td {
+    text-align: center;
+}
+
+header {
+    width: 220px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+header img {
+    width: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    width: 600px;
+}
+
+section a {
+    text-decoration: underline;
+}
+
+footer {
+    width: 220px;
+}
+
+@media print, screen and (max-width: 960px) {
+    header,
+    section,
+    footer {
+        width: auto;
+    }
+
+    header {
+        padding: 0;
+    }
+
+    .navbar {
+        width: 100%;
+        left: 0px;
+        right: 0px;
+    }
+}
+
+@media print, screen and (max-width: 720px) {
+    body {
+        padding: 50px 10px;
+        word-wrap: break-word;
+    }
+}
+
+@media print {
+    body {
+        padding: 0in;
+    }
+
+    .navbar {
+        position: sticky;
+    }
+}

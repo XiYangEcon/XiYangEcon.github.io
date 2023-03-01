@@ -1,0 +1,10 @@
+exclude: ['LICENSE', 'README.md', 'script', 'Gemfile', 'Gemfile.lock']
+
+title: Xi Yang
+description: Econ
+google_analytics:
+theme: jekyll-theme-minimal
+
+logo: /assets/img/logo.png
+favicon: /assets/img/favicon.ico
+cv: /assets/doc/xi_yang_cv.pdf
