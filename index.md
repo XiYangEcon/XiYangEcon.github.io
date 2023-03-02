@@ -32,18 +32,25 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 </details>
 
 **More Credit, More Homeowners? Bank Credit Expansion, Homeownership, and Housing Wealth Accumulation** [Draft coming soon]
+<details>
+  <summary>Abstract</summary>
+  <p>
+This paper examines the causal effect of bank credit expansion on house price, homeownership, and housing wealth accumulation by exploiting exogenous increases in bank credit supply coming from U.S. interstate branching deregulation between 1994 and 2005. Adopting both the traditional dynamic difference-in-difference (DID) method and a newly developed staggered DID method, I find state-level banking deregulation has a sharp and persistent negative effect on the probability of becoming a homeowner particularly in areas with inelastic housing supply. Meanwhile, the banking deregulation has persistent positive effects on wealth accumulation among households who were already homeowners before the deregulation. This wealth effect is not significant among renters. These results reveal the important role of financial market policies on the growing wealth inequality.
+  </p>
+</details>
 
-**Property Division Law and Investment in Household Public Goods: Evidence from China** [Draft coming soon]
+**Property Division Law and Fertility: Evidence from China** [Draft coming soon]
 <br/>
 (with [Ang Sun](https://scholar.google.com/citations?user=WNveNqUAAAAJ&hl=en), [Emma Zang](http://www.emmazang.net/) and Zitong Wang)
 
 <details>
   <summary>Abstract</summary>
   <p>
-  Marriage offers a way for couples to share the costs of investments in household public goods, such as children and household savings. By changing the commitment value of marriage, divorce laws can affect household investments in public goods. This theory, however, is rarely tested in the literature. This study fills the gap by exploring the effect of a legal change in China that altered the property division rule upon divorce, from an equal-division regime to a title-based one. We compared birth rates and household savings of affected and unaffected families before and after the legal change using a difference-in-differences design, and find that title-based property division decreased birth rates and household savings. These results are consistent with the theory that title-based property division can reduce the commitment value of marriage and subsequently reduce household investments in public goods.
+  Marriage offers a way for couples to share the costs of investments in household public goods, such as children and household savings. By changing the commitment value of marriage, divorce laws can affect household investments in public goods. This theory, however, is rarely tested in the literature. This study fills the gap by exploring the effect of a legal change in China that altered the property division rule upon divorce, from an equal-division regime to a title-based one. We compared birth rates and household savings of affected and unaffected families before and after the legal change using a difference-in-differences design, and find that title-based property division decreased birth rates. These results are consistent with the theory that title-based property division can reduce the commitment value of marriage and subsequently reduce household investments in public goods.
   </p>
 </details>
 
+<!-- 
 **Housing Wealth as Precautionary Saving: Evidence from a Regression Discontinuity Design**
 <br/>
 (with Ninghua Zhong)
@@ -53,6 +60,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 **Parental Migration, Investment in Children, and Children's Non-cognitive Development: Evidence from Rural China** [[GLO Working Paper]](https://glabor.org/september-12-2019-new-glo-discussion-paper-on-parental-migration-investment-in-children-and-childrens-non-cognitive-development-evidence-from-rural-china/)
 <br/>
 (with Hanchen Jiang)
+-->
 
 <br/>
 
