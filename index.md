@@ -4,7 +4,7 @@ Hello and welcome to my website!
 
 I'm an assistant professor of Economics at the University of North Texas since 2016. I have a Ph.D. in economics from Johns Hopkins University in 2014. I was a Post-doctoral Research Fellow at Lusk Center for Real Estate at the University of Southern California between 2015-2016 and a Lincoln Institute Scholar in 2019.
 
-My research interests are in the areas of Labor Economics and Urban Economics, focusing on broad economic impacts of urban and housing policies such as gender and racial inequality, individual labor market outcomes, household financial well-being, and local economic growth.
+My research interests are in the areas of Labor Economics and Urban Economics, focusing on broad economic impacts of urban and housing policies such as gender and racial inequality, fertility and marriage, individual labor market outcomes, household financial well-being, and local economic growth.
 
 <br/>
 
@@ -12,14 +12,14 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 
 ---
 
-**Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964)
+**Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964) Submitted
 <br/>
 (with [Hanchen Jiang](https://sites.google.com/view/hjiang/) and [Luis Quintero](https://www.luisequintero.org/))
 
 <details>
   <summary>Abstract</summary>
   <p>
-  Impacts of rent regulation beyond the housing market are largely unknown. Analyzing New York City from 2002 to 2017, we find that rent stabilization increases tenants’ unemployment by six percentage points. The effect is concentrated in traditionally privileged groups like Whites or college graduates. Our empirical design adopts an instrumental variable strategy that uses local relative availability of vacant rent-stabilized units when tenants move in as an exogenous variation of the likelihood of occupying a rent-stabilized unit. A job-search model rationalizes the unemployment effects of rent stabilization. We also provide novel evidence that policy awareness matters.
+ This paper examines the impact of rent regulation on tenants' unemployment in New York City. We provide evidence that rent stabilization increases tenants' unemployment by over five percentage points using data from 2002 and 2017. To address endogeneity concerns, we employ an instrumental variable strategy that exploits the local historical availability of rent-stabilized units when tenants move in as an exogenous source of variation for occupying a rent-stabilized unit. We also develop a job-search model to explain the underlying mechanisms of rent regulation's unemployment effects. Our findings underscore the need for policymakers to consider the unintended consequences of rent regulation.
   </p>
 </details>
 
@@ -27,7 +27,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 <details>
   <summary>Abstract</summary>
   <p>
-  This paper examines the causal effect of bank credit expansion on fertility by exploiting exogenous increases in bank credit supply coming from U.S. interstate branching deregulation between 1994 and 2005. Adopting the traditional dynamic difference-in-difference (DID) method and a newly developed staggered DID method, I find strong and persistent negative effects of state-level banking deregulation on fertility rates at both aggregate and individual levels. Decomposing this negative effect into a housing cost effect among renters, a housing wealth effect among homeowners, and a liquidity effect caused by easier access to credit among both renters and homeowners, I demonstrate that the housing cost effect is the dominant force. These results reveal the critical role of financial market policies and housing affordability in explaining demographic trends.
+   This paper examines the causal effect of bank credit expansion on fertility by exploiting exogenous increases in bank credit supply induced by U.S. interstate branching deregulation between 1994 and 2005. Adopting the traditional dynamic difference-in-difference (DID) method and a newly developed staggered DID method, I find credit expansion caused by interstate branching deregulation decreases annual county-level fertility rates by 7 percent and increases the mean of maternal age by 0.37 percent, respectively. Moreover, I show the decreased and delayed fertility is mainly caused by a housing cost effect. These results reveal the critical role of financial market policies and housing affordability in explaining demographic trends.
   </p>
 </details>
 
@@ -70,7 +70,7 @@ This paper examines the causal effect of bank credit expansion on house price, h
 
 **Housing Wealth as Precautionary Savings: Evidence from Urban China** [[Working Paper]](https://lusk.usc.edu/sites/default/files/working_papers/Housing_Wealth_as_Precautionary_Savings_2020_07_07.pdf) [[Journal link]](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/housing-wealth-as-precautionary-saving-evidence-from-urban-china/F89D4B7E92E87AC2C8406B1B698F4622)
 <br/>
-(with Gary Painter and Ninghua Zhong), ***Journal of Financial and Quantitative Analysis***,  57(2), 761-789, 2022
+(with Gary Painter and Ninghua Zhong), *Journal of Financial and Quantitative Analysis*,  57(2), 761-789, 2022
 
 **Human Capital Externalities or Consumption Spillovers? The Effect of High-skill Human Capital across Low-skill Labor Markets** [[Journal link]](https://www.sciencedirect.com/science/article/pii/S0166046220303057) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335809)
 <br/>
