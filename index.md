@@ -8,6 +8,15 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 
 <br/>
 
+### News!
+
+---
+
+- I will present at the NBER Conference "Fertility and Declining Population Growth in High-Income Countries" in June of 2023.
+- I will visit MIT Center for Real Estate and present at the first MIT Asia Real Estate Symposium in August of 2023.
+
+<br/>
+
 ## Working Papers and Work in Progress
 
 ---
@@ -24,6 +33,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 </details>
 
 **More Credit, Fewer Babies? Bank Credit Expansion, House Price, and Fertility** [Draft coming soon]
+[NBER Slides](/assets/doc/Bank_Credit_Supply_and_Fertility_XiYang_slides_2023_NBER.pdf)
 <details>
   <summary>Abstract</summary>
   <p>
@@ -70,29 +80,29 @@ This paper examines the causal effect of bank credit expansion on house price, h
 
 **Housing Wealth as Precautionary Savings: Evidence from Urban China** [[Working Paper]](https://lusk.usc.edu/sites/default/files/working_papers/Housing_Wealth_as_Precautionary_Savings_2020_07_07.pdf) [[Journal link]](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/housing-wealth-as-precautionary-saving-evidence-from-urban-china/F89D4B7E92E87AC2C8406B1B698F4622)
 <br/>
-(with Gary Painter and Ninghua Zhong), *Journal of Financial and Quantitative Analysis*,  57(2), 761-789, 2022
+(with [Gary Painter](https://priceschool.usc.edu/people/gary-dean-painter/) and [Ninghua Zhong](https://sem.tongji.edu.cn/semen/12410.html)), *Journal of Financial and Quantitative Analysis*,  57(2), 761-789, 2022
 
 **Human Capital Externalities or Consumption Spillovers? The Effect of High-skill Human Capital across Low-skill Labor Markets** [[Journal link]](https://www.sciencedirect.com/science/article/pii/S0166046220303057) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335809)
 <br/>
-(with Shimeng Liu), **Homer Hoyt Institute Best Paper Award**, Asian Real Estate Society<br/>*Regional Science and Urban Economics*, 87, 2021
+(with [Shimeng Liu](https://sites.google.com/site/shimengliuecon/)), **Homer Hoyt Institute Best Paper Award**, Asian Real Estate Society<br/>*Regional Science and Urban Economics*, 87, 2021
 
 **Land Use Regulations and Urban Growth of African Americans** [[Journal link]](https://link.springer.com/article/10.1007/s00168-020-01032-z) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051843)<br/>*Economic Development Quarterly*, 35(4), 338-350, 2021
 
 **Impact of Land Use Regulation Across the Conditional Distribution of Home Prices: An Application of Quantile Regression for Group Level Treatments** [[Journal link]](https://link.springer.com/article/10.1007/s00168-020-01032-z)
 <br/>
-(with Tammy Leonard and Lei Zhang​)​, *Annals of Regional Science*, 66, 655–676, 2021
+(with [Tammy Leonard](https://udallas.edu/constantin/academics/programs/economics/faculty/leonard-tammy.php) and [Lei Zhang](https://www.odu.edu/directory/dr-lei-zhang)​)​, *Annals of Regional Science*, 66, 655–676, 2021
 
 **Property Tax Limits and Female Labor Supply: Evidence from the Housing Boom and Bust** [[Journal link]](https://www.sciencedirect.com/science/article/pii/S1051137720300504) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666755)
 <br/>
-(with Shimeng Liu), *Journal of Housing Economics*, 50, 2020
+(with [Shimeng Liu](https://sites.google.com/site/shimengliuecon/)), *Journal of Housing Economics*, 50, 2020
 
 **Housing Demand and Household Saving in China: Evidence from a Housing Reform** [[Journal link]](https://www.sciencedirect.com/science/article/abs/pii/S1051137720300292#:~:text=Chinese%20government%20abolished%20the%20employer,housing%20demand%20among%20urban%20households.&text=We%20find%20evidence%20that%20the,private%20burden%20of%20housing%20expenditures.) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051846)
 <br/>
-(with Binkai Chen and Ninghua Zhong), *Journal of Housing Economics*,  49, 2020
+(with [Binkai Chen](https://econ.cufe.edu.cn/info/1032/5944.htm) and [Ninghua Zhong](https://sem.tongji.edu.cn/semen/12410.html)), *Journal of Housing Economics*,  49, 2020
 
 **Impact of Property Tax Abatement Incentives on Economic Growth** [[Journal link]](https://journals.sagepub.com/doi/abs/10.1177/0891242420911712)
 <br/>
-(with Tammy Leonard, Lei Zhang,  and Connor Reed), *Economic Development Quarterly*, 34(2), 209-221, 2020
+(with [Tammy Leonard](https://udallas.edu/constantin/academics/programs/economics/faculty/leonard-tammy.php), [Lei Zhang](https://www.odu.edu/directory/dr-lei-zhang),  and Connor Reed), *Economic Development Quarterly*, 34(2), 209-221, 2020
 
 **The Effect of Home Ownership on Post-unemployment Wages** [[Journal link]](http://www.sciencedirect.com/science/article/pii/S0166046217303186) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051836)<br/>*Regional Science and Urban Economics (lead article)*, 74, 1-17, 2019
 
@@ -102,4 +112,4 @@ This paper examines the causal effect of bank credit expansion on house price, h
 
 **Environmental Compliance and Firm Performance: Evidence from China** [[Journal link]](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0084.2011.00649.x/abstract) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2050237)
 <br/>
-(with Yang Yao), *Oxford Bulletin of Economics and Statistics*, 74(3), 397-424, 2012
+(with [Yang Yao](https://en.nsd.pku.edu.cn/faculty/fulltime/y/239558.htm)), *Oxford Bulletin of Economics and Statistics*, 74(3), 397-424, 2012
