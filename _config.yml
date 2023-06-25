@@ -2,7 +2,7 @@ exclude: ['LICENSE', 'README.md', 'script', 'Gemfile', 'Gemfile.lock']
 
 title: Xi Yang
 description: Econ
-google_analytics:
+google_analytics: G-CQ7BQWV1WC
 theme: jekyll-theme-minimal
 
 logo: /assets/img/logo.png

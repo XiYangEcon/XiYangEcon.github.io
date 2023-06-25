@@ -2,9 +2,9 @@
 
 Hello and welcome to my website!
 
-I'm an assistant professor of Economics at the University of North Texas since 2016. I have a Ph.D. in economics from Johns Hopkins University in 2014. I was a Post-doctoral Research Fellow at Lusk Center for Real Estate at the University of Southern California between 2015-2016 and a Lincoln Institute Scholar in 2019.
+I'm an associate professor of Economics at the University of North Texas. I have a Ph.D. in economics from Johns Hopkins University in 2014. I was a Post-doctoral Research Fellow at Lusk Center for Real Estate at the University of Southern California between 2015-2016 and a Lincoln Institute Scholar in 2019.
 
-My research interests are in the areas of Labor Economics and Urban Economics, focusing on broad economic impacts of urban and housing policies such as gender and racial inequality, fertility and marriage, individual labor market outcomes, household financial well-being, and local economic growth.
+My research interests are in the areas of Labor Economics and Urban Economics, focusing on urban and housing policies and their broad economic impacts such as gender and racial inequality, fertility and marriage, individual labor market outcomes, household financial well-being, and local economic growth.
 
 <br/>
 
@@ -12,6 +12,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 
 ---
 
+- I have been promoted to associate professor with tenure at UNT in June of 2023!
 - I will present at the NBER Conference "Fertility and Declining Population Growth in High-Income Countries" in June of 2023.
 - I will visit MIT Center for Real Estate and present at the first MIT Asia Real Estate Symposium in August of 2023.
 
@@ -32,8 +33,8 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
   </p>
 </details>
 
-**More Credit, Fewer Babies? Bank Credit Expansion, House Price, and Fertility** [Draft coming soon]
-[NBER Slides](/assets/doc/Bank_Credit_Supply_and_Fertility_XiYang_slides_2023_NBER.pdf)
+**More Credit, Fewer Babies? Bank Credit Expansion, House Price, and Fertility** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)
+[[NBER Slides]](/assets/doc/Bank_Credit_Supply_and_Fertility_XiYang_slides_2023_NBER.pdf)
 <details>
   <summary>Abstract</summary>
   <p>
@@ -41,6 +42,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
   </p>
 </details>
 
+<!--
 **More Credit, More Homeowners? Bank Credit Expansion, Homeownership, and Housing Wealth Accumulation** [Draft coming soon]
 <details>
   <summary>Abstract</summary>
@@ -48,6 +50,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 This paper examines the causal effect of bank credit expansion on house price, homeownership, and housing wealth accumulation by exploiting exogenous increases in bank credit supply coming from U.S. interstate branching deregulation between 1994 and 2005. Adopting both the traditional dynamic difference-in-difference (DID) method and a newly developed staggered DID method, I find state-level banking deregulation has a sharp and persistent negative effect on the probability of becoming a homeowner particularly in areas with inelastic housing supply. Meanwhile, the banking deregulation has persistent positive effects on wealth accumulation among households who were already homeowners before the deregulation. This wealth effect is not significant among renters. These results reveal the important role of financial market policies on the growing wealth inequality.
   </p>
 </details>
+-->
 
 **Property Division Law and Fertility: Evidence from China** [Draft coming soon]
 <br/>
