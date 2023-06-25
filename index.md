@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 <!-- markdownlint-disable-file MD033 MD036 MD041 -->
 
 Hello and welcome to my website!

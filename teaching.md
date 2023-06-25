@@ -1,3 +1,7 @@
+---
+title: Teaching
+---
+
 <!-- markdownlint-disable-file MD033 MD036 MD041 -->
 
 #### University of North Texas
