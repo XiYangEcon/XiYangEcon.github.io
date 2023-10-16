@@ -15,10 +15,13 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 ### News!
 
 ---
-
-- I have been promoted to associate professor with tenure at UNT in June of 2023!
-- I will present at the NBER Conference "Fertility and Declining Population Growth in High-Income Countries" in June of 2023.
-- I will visit MIT Center for Real Estate and present at the first MIT Asia Real Estate Symposium in August of 2023.
+- I presented at the NBER Conference "Fertility and Declining Population Growth in High-Income Countries" in June of 2023.
+- I visited the MIT Center for Real Estate and presented at the first MIT Asia Real Estate Symposium in August of 2023.
+- I will present at the Lusk Center for Real Estate at the University of Southern California in October of 2023.
+- I will present at the Economics Department of Southern Methodist University in November of 2023.
+- I will present at the AREUEA Virtual Seminar in December of 2023.
+- I will present at the University of Arkansas in February of 2024.
+- I will present at the Federal Reserve Fed Dallas in March of 2024.
 
 <br/>
 
@@ -37,7 +40,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
   </p>
 </details>
 
-**More Credit, Fewer Babies? Bank Credit Expansion, House Price, and Fertility** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)
+**More Credit, More Babies? Bank Credit Expansion, House Prices, and Fertility** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)
 [[NBER Slides]](/assets/doc/Bank_Credit_Supply_and_Fertility_XiYang_slides_2023_NBER.pdf)
 <details>
   <summary>Abstract</summary>
