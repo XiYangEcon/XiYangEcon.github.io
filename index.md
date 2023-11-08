@@ -15,6 +15,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 ### News!
 
 ---
+
 - I presented at the NBER Conference "Fertility and Declining Population Growth in High-Income Countries" in June of 2023.
 - I visited the MIT Center for Real Estate and presented at the first MIT Asia Real Estate Symposium in August of 2023.
 - I will present at the Lusk Center for Real Estate at the University of Southern California in October of 2023.
@@ -46,6 +47,25 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
   <summary>Abstract</summary>
   <p>
    This paper examines the causal effect of bank credit expansion on fertility by exploiting exogenous increases in bank credit supply induced by U.S. interstate branching deregulation between 1994 and 2005. Adopting the traditional dynamic difference-in-difference (DID) method and a newly developed staggered DID method, I find credit expansion caused by interstate branching deregulation decreases annual county-level fertility rates by 7 percent and increases the mean of maternal age by 0.37 percent, respectively. Moreover, I show the decreased and delayed fertility is mainly caused by a housing cost effect. These results reveal the critical role of financial market policies and housing affordability in explaining demographic trends.
+  </p>
+</details>
+
+**Financial Deregulation, School Finance, and Student Achievement** [[EdWorking Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)(with [Jian Zou (Job Market Candidate 2023-204)](https://sites.google.com/view/jian-zou))
+<details>
+  <summary>Abstract</summary>
+  <p>
+This paper studies how school spending impacts student achievement by exploiting
+the US interstate branching deregulation as state tax revenue shocks. Leveraging
+school finance data from universal school districts, our difference-in-differences
+estimation reveals that deregulation leads to an increase in per-pupil total revenue
+and expenditure. The rise in revenue is primarily attributed to higher state revenues,
+while the expenditure increase is more prominent in low-income school districts.
+Using restricted-use student assessments from the Nation’s Report Card, we find that
+deregulation results in improved student achievement, with no distributional effects
+evident across students’ ability, race, or free lunch status. We introduce an instrumental
+variables approach that accounts for dynamic treatment effects and estimate that a
+one-thousand-dollar increase in per-pupil spending leads to a 0.035 standard deviation
+improvement in student achievement.
   </p>
 </details>
 
@@ -96,11 +116,11 @@ This paper examines the causal effect of bank credit expansion on house price, h
 <br/>
 (with [Shimeng Liu](https://sites.google.com/site/shimengliuecon/)), **Homer Hoyt Institute Best Paper Award**, Asian Real Estate Society<br/>*Regional Science and Urban Economics*, 87, 2021
 
-**Land Use Regulations and Urban Growth of African Americans** [[Journal link]](https://link.springer.com/article/10.1007/s00168-020-01032-z) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051843)<br/>*Economic Development Quarterly*, 35(4), 338-350, 2021
+**Land Use Regulations and Urban Growth of African Americans** [[Journal link]](https://journals.sagepub.com/doi/abs/10.1177/08912424211032291?journalCode=edqa) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051843)<br/>*Economic Development Quarterly*, 35(4), 338-350, 2021
 
 **Impact of Land Use Regulation Across the Conditional Distribution of Home Prices: An Application of Quantile Regression for Group Level Treatments** [[Journal link]](https://link.springer.com/article/10.1007/s00168-020-01032-z)
 <br/>
-(with [Tammy Leonard](https://udallas.edu/constantin/academics/programs/economics/faculty/leonard-tammy.php) and [Lei Zhang](https://www.odu.edu/directory/dr-lei-zhang)​)​, *Annals of Regional Science*, 66, 655–676, 2021
+(with [Tammy Leonard](https://profiles.utsouthwestern.edu/profile/144971/tammy-leonard.html) and [Lei Zhang](https://www.odu.edu/directory/dr-lei-zhang)​)​, *Annals of Regional Science*, 66, 655–676, 2021
 
 **Property Tax Limits and Female Labor Supply: Evidence from the Housing Boom and Bust** [[Journal link]](https://www.sciencedirect.com/science/article/pii/S1051137720300504) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666755)
 <br/>
@@ -112,7 +132,7 @@ This paper examines the causal effect of bank credit expansion on house price, h
 
 **Impact of Property Tax Abatement Incentives on Economic Growth** [[Journal link]](https://journals.sagepub.com/doi/abs/10.1177/0891242420911712)
 <br/>
-(with [Tammy Leonard](https://udallas.edu/constantin/academics/programs/economics/faculty/leonard-tammy.php), [Lei Zhang](https://www.odu.edu/directory/dr-lei-zhang),  and Connor Reed), *Economic Development Quarterly*, 34(2), 209-221, 2020
+(with [Tammy Leonard](https://profiles.utsouthwestern.edu/profile/144971/tammy-leonard.html), [Lei Zhang](https://www.odu.edu/directory/dr-lei-zhang),  and Connor Reed), *Economic Development Quarterly*, 34(2), 209-221, 2020
 
 **The Effect of Home Ownership on Post-unemployment Wages** [[Journal link]](http://www.sciencedirect.com/science/article/pii/S0166046217303186) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051836)<br/>*Regional Science and Urban Economics (lead article)*, 74, 1-17, 2019
 
