@@ -16,13 +16,18 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 
 ---
 
+<!-- 
 - I presented at the NBER Conference "Fertility and Declining Population Growth in High-Income Countries" in June of 2023.
 - I visited the MIT Center for Real Estate and presented at the first MIT Asia Real Estate Symposium in August of 2023.
 - I will present at the Lusk Center for Real Estate at the University of Southern California in October of 2023.
 - I will present at the Economics Department of Southern Methodist University in November of 2023.
 - I will present at the AREUEA Virtual Seminar in December of 2023.
+-->
+
 - I will present at the University of Arkansas in February of 2024.
-- I will present at the Federal Reserve Fed Dallas in March of 2024.
+- I will present at the Federal Reserve Dallas (Brown bag) in March of 2024.
+- I will present at the Population Association of America (PAA) Annual Conference in April of 2024.
+- I will present at the Society of Labor Economist Annual Meeting (SOLE) in May of 2024.
 
 <br/>
 
