@@ -8,7 +8,7 @@ Hello and welcome to my website!
 
 I'm an associate professor of Economics at the University of North Texas. I have a Ph.D. in economics from Johns Hopkins University in 2014. I was a Post-doctoral Research Fellow at Lusk Center for Real Estate at the University of Southern California between 2015-2016 and a Lincoln Institute Scholar in 2019.
 
-My research interests are in the areas of Labor Economics and Urban Economics, focusing on urban and housing policies and their broad economic impacts such as gender and racial inequality, fertility and marriage, individual labor market outcomes, household financial well-being, and local economic growth.
+My research interests are in the areas of Labor Economics and Urban Economics, focusing on urban, housing, and welfare policies and their broad economic impacts such as gender and racial inequality, fertility and marriage, individual labor market outcomes, household financial well-being, and local economic growth.
 
 <br/>
 
@@ -28,6 +28,9 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 - I will present at the Federal Reserve Dallas (Brown bag) in March of 2024.
 - I will present at the Population Association of America (PAA) Annual Conference in April of 2024.
 - I will present at the Society of Labor Economist Annual Meeting (SOLE) in May of 2024.
+- I will attend the American Real Estate and Urban Economics Association (AREUEA) National Meeting in May of 2024.
+- My research received grant from the U.S. Social Security Administration (SSA) funded as part of the Retirement and Disability Research Consortium [[RDRC]](https://rdrc.wisc.edu/projects).
+- I will visit UC Berkley the fall of 2024.
 
 <br/>
 
@@ -35,7 +38,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 
 ---
 
-**Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964) Submitted
+**Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964) R & R at *Journal of Urban Economics*
 <br/>
 (with [Hanchen Jiang](https://sites.google.com/view/hjiang/) and [Luis Quintero](https://www.luisequintero.org/))
 
