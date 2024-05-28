@@ -30,7 +30,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 - I will present at the Society of Labor Economist Annual Meeting (SOLE) in May of 2024.
 - I will attend the American Real Estate and Urban Economics Association (AREUEA) National Meeting in May of 2024.
 - My research received grant from the U.S. Social Security Administration (SSA) funded as part of the Retirement and Disability Research Consortium [[RDRC]](https://rdrc.wisc.edu/projects).
-- I will visit UC Berkley the fall of 2024.
+- I will visit Institute for Research on Labor and Employment (IRLE) at UC Berkley the fall of 2024.
 
 <br/>
 
@@ -56,6 +56,11 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
   <p>
    This paper examines the causal effect of bank credit expansion on fertility by exploiting exogenous increases in bank credit supply induced by U.S. interstate branching deregulation between 1994 and 2005. Adopting the traditional dynamic difference-in-difference (DID) method and a newly developed staggered DID method, I find credit expansion caused by interstate branching deregulation decreases annual county-level fertility rates by 7 percent and increases the mean of maternal age by 0.37 percent, respectively. Moreover, I show the decreased and delayed fertility is mainly caused by a housing cost effect. These results reveal the critical role of financial market policies and housing affordability in explaining demographic trends.
   </p>
+</details>
+
+<details>
+  <summary>Figure</summary>
+  <img src="assets/img/Fertility1544_yeartrend_bypolicyland.png" alt="Fertility Rate">
 </details>
 
 **Financial Deregulation, School Finance, and Student Achievement** [[EdWorking Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)(with [Jian Zou (Job Market Candidate 2023-204)](https://sites.google.com/view/jian-zou))
