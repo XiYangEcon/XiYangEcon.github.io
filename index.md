@@ -24,13 +24,12 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 - I will present at the AREUEA Virtual Seminar in December of 2023.
 -->
 
-- I will present at the University of Arkansas in February of 2024.
-- I will present at the Federal Reserve Dallas (Brown bag) in March of 2024.
-- I will present at the Population Association of America (PAA) Annual Conference in April of 2024.
-- I will present at the Society of Labor Economist Annual Meeting (SOLE) in May of 2024.
-- I will attend the American Real Estate and Urban Economics Association (AREUEA) National Meeting in May of 2024.
+
+- I will visit Institute for Research on Labor and Employment (IRLE) at UC Berkeley the fall of 2024.
 - My research received grant from the U.S. Social Security Administration (SSA) funded as part of the Retirement and Disability Research Consortium [[RDRC]](https://rdrc.wisc.edu/projects).
-- I will visit Institute for Research on Labor and Employment (IRLE) at UC Berkley the fall of 2024.
+- I will present at the [Workshop on Changing Demographics and Housing Demand](https://www.philadelphiafed.org/calendar-of-events/workshop-on-changing-demographics-and-housing-demand) in October of 2024.
+- I will present at the Association for Public Policy Analysis & Management (APPAM) in November of 2024.
+- I will attend the ASSA-AEA Meeting in January of 2025.
 
 <br/>
 
@@ -63,7 +62,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
   <img src="assets/img/Fertility1544_yeartrend_bypolicyland.png" alt="Fertility Rate">
 </details>
 
-**Financial Deregulation, School Finance, and Student Achievement** [[EdWorking Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)(with [Jian Zou (Job Market Candidate 2023-204)](https://sites.google.com/view/jian-zou))
+**Financial Deregulation, School Finance, and Student Achievement** [[EdWorking Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)(with [Jian Zou](https://sites.google.com/view/jian-zou))
 <details>
   <summary>Abstract</summary>
   <p>
@@ -104,7 +103,7 @@ This paper examines the causal effect of bank credit expansion on house price, h
 </details>
 
 <!-- 
-**Housing Wealth as Precautionary Saving: Evidence from a Regression Discontinuity Design**
+**Housing Wealth as Human Capital Investment: Evidence from a Regression Discontinuity Design**
 <br/>
 (with Ninghua Zhong)
 
