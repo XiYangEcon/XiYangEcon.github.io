@@ -62,7 +62,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
   <img src="assets/img/Fertility1544_yeartrend_bypolicyland.png" alt="Fertility Rate">
 </details>
 
-**Financial Deregulation, School Finance, and Student Achievement** [[EdWorking Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)(with [Jian Zou](https://sites.google.com/view/jian-zou))
+**Financial Deregulation, School Finance, and Student Achievement** [[EdWorking Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608694)(with [Jian Zou](https://sites.google.com/view/jian-zou))
 <details>
   <summary>Abstract</summary>
   <p>
