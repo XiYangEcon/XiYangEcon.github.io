@@ -22,14 +22,15 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 - I will present at the Lusk Center for Real Estate at the University of Southern California in October of 2023.
 - I will present at the Economics Department of Southern Methodist University in November of 2023.
 - I will present at the AREUEA Virtual Seminar in December of 2023.
--->
-
-
 - I will visit Institute for Research on Labor and Employment (IRLE) at UC Berkeley the fall of 2024.
 - My research received grant from the U.S. Social Security Administration (SSA) funded as part of the Retirement and Disability Research Consortium [[RDRC]](https://rdrc.wisc.edu/projects).
 - I will present at the [Workshop on Changing Demographics and Housing Demand](https://www.philadelphiafed.org/calendar-of-events/workshop-on-changing-demographics-and-housing-demand) in October of 2024.
 - I will present at the Association for Public Policy Analysis & Management (APPAM) in November of 2024.
 - I will attend the ASSA-AEA Meeting in January of 2025.
+-->
+
+- I will attend and present at the AREUEA National conference (May 2025).
+- I will ateend and present at the Sixth World Labor Conference hosted by Society of Labor Economists (SOLE) (June 2025).
 
 <br/>
 
@@ -49,11 +50,17 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 </details>
 
 **More Credit, More Babies? Bank Credit Expansion, House Prices, and Fertility** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)
-[[NBER Slides]](/assets/doc/Bank_Credit_Supply_and_Fertility_XiYang_slides_2023_NBER.pdf)
+[[NBER Slides]](/assets/doc/Bank_Credit_Supply_and_Fertility_XiYang_slides_2023_NBER.pdf) Submitted
 <details>
   <summary>Abstract</summary>
   <p>
-   This paper examines the causal effect of bank credit expansion on fertility by exploiting exogenous increases in bank credit supply induced by U.S. interstate branching deregulation between 1994 and 2005. Adopting the traditional dynamic difference-in-difference (DID) method and a newly developed staggered DID method, I find credit expansion caused by interstate branching deregulation decreases annual county-level fertility rates by 7 percent and increases the mean of maternal age by 0.37 percent, respectively. Moreover, I show the decreased and delayed fertility is mainly caused by a housing cost effect. These results reveal the critical role of financial market policies and housing affordability in explaining demographic trends.
+This paper estimates the causal impact of bank credit expansion on fertility by exploiting U.S.
+interstate banking deregulation in the 1990s. Using the staggered difference-in-differences method,
+I find that increased credit supply reduces fertility rates by 10 percent and raises maternal age at
+first birth by 0.76 percent. Further investigation shows that the main mechanism that generates the
+fertility response is the increase in housing prices from the credit expansion, which is more evident
+in areas where the housing supply is inelastic. My findings uncover a new channel linking financial
+market policies to demographic outcomes via housing affordability.
   </p>
 </details>
 
@@ -62,22 +69,22 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
   <img src="assets/img/Fertility1544_yeartrend_bypolicyland.png" alt="Fertility Rate">
 </details>
 
-**Financial Deregulation, School Finance, and Student Achievement** [[EdWorking Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608694)(with [Jian Zou](https://sites.google.com/view/jian-zou))
+**The Finance-Education Nexus: Educational Consequences of US Interstate Bank Branching Deregulation** [[EdWorking Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608694)(with [Jian Zou](https://sites.google.com/view/jian-zou)) Submitted
 <details>
   <summary>Abstract</summary>
   <p>
-This paper studies how school spending impacts student achievement by exploiting
-the US interstate branching deregulation as state tax revenue shocks. Leveraging
-school finance data from universal school districts, our difference-in-differences
-estimation reveals that deregulation leads to an increase in per-pupil total revenue
-and expenditure. The rise in revenue is primarily attributed to higher state revenues,
-while the expenditure increase is more prominent in low-income school districts.
-Using restricted-use student assessments from the Nation’s Report Card, we find that
-deregulation results in improved student achievement, with no distributional effects
-evident across students’ ability, race, or free lunch status. We introduce an instrumental
-variables approach that accounts for dynamic treatment effects and estimate that a
-one-thousand-dollar increase in per-pupil spending leads to a 0.035 standard deviation
-improvement in student achievement.
+This paper studies the impact of US interstate branching deregulation on school
+finance and student achievement by exploiting the deregulation as state tax
+revenue shocks. Leveraging school finance data from universal school districts,
+our difference-in-differences estimation reveals that deregulation leads to increased
+per-pupil total revenue and expenditure. The rise in revenue is primarily attributed to
+higher state revenues, while expenditure increases are more prominent in low-income
+school districts. Analysis of restricted-use student assessments from the Nation’s
+Report Card shows that deregulation improves student achievement, with no
+distributional effects evident across students’ ability, race, or free lunch status. We
+introduce an instrumental variables approach that accounts for dynamic treatment
+effects and estimate that a one-thousand-dollar increase in per-pupil spending leads to
+a 0.035-0.057 standard deviation improvement in student achievement.
   </p>
 </details>
 
@@ -90,6 +97,28 @@ This paper examines the causal effect of bank credit expansion on house price, h
   </p>
 </details>
 -->
+
+**Housing Wealth and Labor Supply: Evidence from Geographically-linked Microdata** [Draft coming soon]
+<br/>
+(Census Research Data Center Project)
+
+<details>
+  <summary>Abstract</summary>
+  <p>
+ This study investigates the causal relationship between housing wealth and labor supply using a novel household-level instrument. Leveraging a confidential version of the Survey of Income and Program Participation (SIPP) with restricted-use geographic data, I construct an instrument that exploits variations in housing wealth stemming from three key sources: differences in housing price growth across counties and years due to credit expansion and housing supply constraints, as well as individual households' home purchase timing. Findings in this paper reveal a significant negative correlation between housing wealth and labor supply, particularly pronounced for women. A 1% increase in home equity raises the likelihood of a woman exiting the labor force by 0.098 percentage points, while the effect on men is statistically insignificant. The observed responses are strongest among credit-unconstrained households, suggesting that income effects primarily drive this negative housing wealth effect. One of the first geocoded SIPP.
+  </p>
+</details>
+
+**SNAP, SSI, and Economic Security of Older Adults** [Draft coming soon]
+<br/>
+(with [Robert Moffitt](https://econ.jhu.edu/directory/robert-a-moffitt/))
+
+<details>
+  <summary>Abstract</summary>
+  <p>
+    Both the SSI and SNAP programs provide critical assistance in reducing economic insecurity among older nondisabled low-income adults. In this study, we examine how programmatic policy changes affecting SNAP and SNAP-SSI joint receipt of benefits by older nondisabled adults have affected their participation in those programs and, in turn, whether the changes in participation induced by those policies have affected outcomes for material hardship, home and vehicle ownership, and other variables, with particular attention to how the results differ across household asset levels. We find strong effects of several program policies on older nondisabled adult SNAP and SNAP-SSI participation but the effects of different policies differ markedly by a household's level of liquid assets. The increases in program participation resulting from the policies reduce material hardship for all households and lead high-asset households to reduce their holdings of illiquid assets.
+  </p>
+</details>
 
 **Property Division Law and Fertility: Evidence from China** [Draft coming soon]
 <br/>
