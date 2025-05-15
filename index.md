@@ -6,9 +6,9 @@ title: Home
 
 Hello and welcome to my website!
 
-I'm an associate professor of Economics at the University of North Texas. I have a Ph.D. in economics from Johns Hopkins University in 2014. I was a Post-doctoral Research Fellow at Lusk Center for Real Estate at the University of Southern California between 2015-2016 and a Lincoln Institute Scholar in 2019.
+I am an Associate Professor of Economics at the University of North Texas. I earned my Ph.D. in Economics from Johns Hopkins University in 2014. I was as a Postdoctoral Research Fellow at the USC Lusk Center for Real Estate (2015–2016), was named a Lincoln Institute Scholar in 2019, and most recently was a Visiting Scholar at UC Berkeley's Institute for Research on Labor and Employment (Fall 2024).
 
-My research interests are in the areas of Labor Economics and Urban Economics, focusing on urban, housing, and welfare policies and their broad economic impacts such as gender and racial inequality, fertility and marriage, individual labor market outcomes, household financial well-being, and local economic growth.
+My research interests are in the areas of Labor Economics and Urban Economics, focusing on urban, housing, and welfare policies and their broad economic impacts such as family and labor market outcomes, household financial well-being, and local economic growth.
 
 <br/>
 
@@ -30,7 +30,8 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 -->
 
 - I will attend and present at the AREUEA National conference (May 2025).
-- I will ateend and present at the Sixth World Labor Conference hosted by Society of Labor Economists (SOLE) (June 2025).
+- I will attend and present at the Sixth World Labor Conference hosted by Society of Labor Economists (SOLE) (June 2025).
+- I was elected to serve as a board member of the Chinese Economists Society (CES) for the 2024-2025 term.
 
 <br/>
 
@@ -105,7 +106,7 @@ This paper examines the causal effect of bank credit expansion on house price, h
 <details>
   <summary>Abstract</summary>
   <p>
- This study investigates the causal relationship between housing wealth and labor supply using a novel household-level instrument. Leveraging a confidential version of the Survey of Income and Program Participation (SIPP) with restricted-use geographic data, I construct an instrument that exploits variations in housing wealth stemming from three key sources: differences in housing price growth across counties and years due to credit expansion and housing supply constraints, as well as individual households' home purchase timing. Findings in this paper reveal a significant negative correlation between housing wealth and labor supply, particularly pronounced for women. A 1% increase in home equity raises the likelihood of a woman exiting the labor force by 0.098 percentage points, while the effect on men is statistically insignificant. The observed responses are strongest among credit-unconstrained households, suggesting that income effects primarily drive this negative housing wealth effect. One of the first geocoded SIPP.
+This study examines the causal effect of housing wealth on labor supply using restricted geographic data from the Survey of Income and Program Participation (SIPP). It employs a novel household-level instrument that measures the duration of homeowners' exposure to the housing market boom, driven by credit expansion in supply-inelastic areas, by exploiting household-level variation in home purchase timing. Results show a significant negative relationship between housing wealth and labor supply, particularly for women: a 1\% increase in housing wealth reduces women’s labor force participation by 0.098 percentage points, with no significant effect for men. The effect is strongest among college-educated mothers of young children, underscoring how childcare responsibilities shape this wealth effect.
   </p>
 </details>
 
