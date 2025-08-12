@@ -8,7 +8,7 @@ Hello and welcome to my website!
 
 I am an Associate Professor of Economics at the University of North Texas. I earned my Ph.D. in Economics from Johns Hopkins University in 2014. I was as a Postdoctoral Research Fellow at the USC Lusk Center for Real Estate (2015–2016), was named a Lincoln Institute Scholar in 2019, and most recently was a Visiting Scholar at UC Berkeley's Institute for Research on Labor and Employment (Fall 2024).
 
-My research interests are in the areas of Labor Economics and Urban Economics, focusing on urban, housing, and welfare policies and their broad economic impacts such as family and labor market outcomes, household financial well-being, and local economic growth.
+My research interests are in the areas of **Labor Economics and Urban Economics**, focusing on urban, housing, and welfare policies and their broad economic impacts such as family and labor market outcomes, household financial well-being, and economic inequality.
 
 <br/>
 
@@ -27,11 +27,15 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 - I will present at the [Workshop on Changing Demographics and Housing Demand](https://www.philadelphiafed.org/calendar-of-events/workshop-on-changing-demographics-and-housing-demand) in October of 2024.
 - I will present at the Association for Public Policy Analysis & Management (APPAM) in November of 2024.
 - I will attend the ASSA-AEA Meeting in January of 2025.
--->
-
 - I will attend and present at the AREUEA National conference (May 2025).
 - I will attend and present at the Sixth World Labor Conference hosted by Society of Labor Economists (SOLE) (June 2025).
-- I was elected to serve as a board member of the Chinese Economists Society (CES) for the 2024-2025 term.
+-->
+
+- "Does Rent Control Increase Tenant Unemployment?" is published at [Journal of Urban Economics](https://www.sciencedirect.com/science/article/pii/S0094119025000555?dgcid=author).
+- I will present at 2025 [Federal Statistical Research Data Center (FSRDC) Annual Research Conference](https://socialsciences.cornell.edu/nyrdc/fsrdc/annual-research-conference-cornell-university) the fall of 2025
+- I will present at	North American Meeting of the **Urban Economics Association** the fall of 2025.
+- I will start teaching **Economics of Inequality and Discrimination** the fall of 2025.
+- I was elected to serve as a board member of the **Chinese Economists Society (CES)** for the 2024-2025 term.
 
 <br/>
 
@@ -39,16 +43,7 @@ My research interests are in the areas of Labor Economics and Urban Economics, f
 
 ---
 
-**Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964) R & R at *Journal of Urban Economics*
-<br/>
-(with [Hanchen Jiang](https://sites.google.com/view/hjiang/) and [Luis Quintero](https://www.luisequintero.org/))
 
-<details>
-  <summary>Abstract</summary>
-  <p>
- This paper examines the impact of rent regulation on tenants' unemployment in New York City. We provide evidence that rent stabilization increases tenants' unemployment by over five percentage points using data from 2002 and 2017. To address endogeneity concerns, we employ an instrumental variable strategy that exploits the local historical availability of rent-stabilized units when tenants move in as an exogenous source of variation for occupying a rent-stabilized unit. We also develop a job-search model to explain the underlying mechanisms of rent regulation's unemployment effects. Our findings underscore the need for policymakers to consider the unintended consequences of rent regulation.
-  </p>
-</details>
 
 **More Credit, More Babies? Bank Credit Expansion, House Prices, and Fertility** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)
 [[NBER Slides]](/assets/doc/Bank_Credit_Supply_and_Fertility_XiYang_slides_2023_NBER.pdf) Submitted
@@ -150,13 +145,24 @@ This study examines the causal effect of housing wealth on labor supply using re
 
 ---
 
+**Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City** [[Journal link]](https://www.sciencedirect.com/science/article/pii/S0094119025000555?dgcid=author) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964) **Journal of Urban Economics**, 149, 2025
+<br/>
+(with [Hanchen Jiang](https://sites.google.com/view/hjiang/) and [Luis Quintero](https://www.luisequintero.org/))
+<details>
+  <summary>Abstract</summary>
+  <p>
+ This paper examines the impact of rent regulation on tenants' unemployment in New York City. We provide evidence that rent stabilization increases tenants' unemployment by over five percentage points using data from 2002 and 2017. To address endogeneity concerns, we employ an instrumental variable strategy that exploits the local historical availability of rent-stabilized units when tenants move in as an exogenous source of variation for occupying a rent-stabilized unit. We also develop a job-search model to explain the underlying mechanisms of rent regulation's unemployment effects. Our findings underscore the need for policymakers to consider the unintended consequences of rent regulation.
+  </p>
+</details>
+
+
 **Housing Wealth as Precautionary Savings: Evidence from Urban China** [[Working Paper]](https://lusk.usc.edu/sites/default/files/working_papers/Housing_Wealth_as_Precautionary_Savings_2020_07_07.pdf) [[Journal link]](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/housing-wealth-as-precautionary-saving-evidence-from-urban-china/F89D4B7E92E87AC2C8406B1B698F4622)
 <br/>
-(with [Gary Painter](https://priceschool.usc.edu/people/gary-dean-painter/) and [Ninghua Zhong](https://sem.tongji.edu.cn/semen/12410.html)), *Journal of Financial and Quantitative Analysis*,  57(2), 761-789, 2022
+(with [Gary Painter](https://priceschool.usc.edu/people/gary-dean-painter/) and [Ninghua Zhong](https://sem.tongji.edu.cn/semen/12410.html)), **Journal of Financial and Quantitative Analysis**,  57(2), 761-789, 2022
 
 **Human Capital Externalities or Consumption Spillovers? The Effect of High-skill Human Capital across Low-skill Labor Markets** [[Journal link]](https://www.sciencedirect.com/science/article/pii/S0166046220303057) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335809)
 <br/>
-(with [Shimeng Liu](https://sites.google.com/site/shimengliuecon/)), **Homer Hoyt Institute Best Paper Award**, Asian Real Estate Society<br/>*Regional Science and Urban Economics*, 87, 2021
+(with [Shimeng Liu](https://sites.google.com/site/shimengliuecon/)), **Homer Hoyt Institute Best Paper Award**, Asian Real Estate Society<br/>**Regional Science and Urban Economics**, 87, 2021
 
 **Land Use Regulations and Urban Growth of African Americans** [[Journal link]](https://journals.sagepub.com/doi/abs/10.1177/08912424211032291?journalCode=edqa) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051843)<br/>*Economic Development Quarterly*, 35(4), 338-350, 2021
 
@@ -176,7 +182,7 @@ This study examines the causal effect of housing wealth on labor supply using re
 <br/>
 (with [Tammy Leonard](https://profiles.utsouthwestern.edu/profile/144971/tammy-leonard.html), [Lei Zhang](https://www.odu.edu/directory/dr-lei-zhang),  and Connor Reed), *Economic Development Quarterly*, 34(2), 209-221, 2020
 
-**The Effect of Home Ownership on Post-unemployment Wages** [[Journal link]](http://www.sciencedirect.com/science/article/pii/S0166046217303186) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051836)<br/>*Regional Science and Urban Economics (lead article)*, 74, 1-17, 2019
+**The Effect of Home Ownership on Post-unemployment Wages** [[Journal link]](http://www.sciencedirect.com/science/article/pii/S0166046217303186) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051836)<br/>**Regional Science and Urban Economics (lead article)**, 74, 1-17, 2019
 
 **Market Facilitation by Local Government and Firm Efficiency: Evidence from China** [[Journal link]](http://www.sciencedirect.com/science/article/pii/S092911991500070X) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2350534)
 <br/>
