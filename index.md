@@ -8,7 +8,7 @@ Hello and welcome to my website!
 
 I am an Associate Professor of Economics at the University of North Texas. I earned my Ph.D. in Economics from Johns Hopkins University in 2014. I was a Postdoctoral Research Fellow at the USC Lusk Center for Real Estate (2015–2016), was named a Lincoln Institute Scholar in 2019, and most recently was a Visiting Scholar at UC Berkeley’s Institute for Research on Labor and Employment (Fall 2024).  My research has been supported by the NBER-NSF Program and the Social Security Administration (SSA). 
 
-y research interests are in the areas of **Labor Economics and Urban Economics**, focusing on urban, housing, and welfare policies and their broad economic impacts, such as family and labor market outcomes, household financial well-being, and economic inequality.
+My research interests are in the areas of **Labor Economics and Urban Economics**, focusing on urban, housing, and welfare policies and their broad economic impacts, such as family and labor market outcomes, household financial well-being, and economic inequality.
 
 <br/>
 
