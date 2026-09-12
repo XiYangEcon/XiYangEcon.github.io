@@ -1,193 +1,376 @@
 ---
-title: Home
+title: Xi Yang
+description: >-
+  Xi Yang, Associate Professor of Economics at the University of North Texas.
+  Research on housing and families, housing affordability, and the effects of
+  housing, credit, and welfare policy on labor markets and inequality.
 ---
 
 <!-- markdownlint-disable-file MD033 MD036 MD041 -->
 
-Hello and welcome to my website!
+I am an Associate Professor of Economics at the University of North Texas and
+Affiliate Faculty in the Anuradha and Vikas Sinha Department of Data Science. I
+earned my Ph.D. in Economics from Johns Hopkins University in 2014 under Robert
+A. Moffitt. I was a Postdoctoral Research Fellow at the USC Lusk Center for Real
+Estate, a Visiting Scholar at the MIT Center for Real Estate and at UC Berkeley's
+Institute for Research on Labor and Employment, and I have been a Special Sworn
+Status researcher with the U.S. Census Bureau since 2021.
 
-I am an Associate Professor of Economics at the University of North Texas. I earned my Ph.D. in Economics from Johns Hopkins University in 2014. I was a Postdoctoral Research Fellow at the USC Lusk Center for Real Estate (2015–2016), was named a Lincoln Institute Scholar in 2019, and most recently was a Visiting Scholar at UC Berkeley’s Institute for Research on Labor and Employment (Fall 2024).  My research has been supported by the NBER-NSF Program and the Social Security Administration (SSA). 
+My fields are **housing and urban economics**, **labor economics**, and
+**household finance**. I work with restricted-access Census microdata,
+large-scale administrative and text data, and quasi-experimental policy
+evaluation. My research has been supported by the Social Security
+Administration, the W.E. Upjohn Institute, the NBER-NSF Program, the Russell Sage
+Foundation, and the Institute for Humane Studies. I serve on the Academic
+Committee of the Housing Finance Policy Center at the Urban Institute and on the
+editorial board of *International Studies of Economics*.
 
-My research interests are in the areas of **Labor Economics and Urban Economics**, focusing on urban, housing, and welfare policies and their broad economic impacts, such as family and labor market outcomes, household financial well-being, and economic inequality.
+## Research Agenda
 
-<br/>
+<div class="agenda" markdown="0">
 
-### News!
+<div class="theme">
+  <span class="theme-name">Housing and Families</span>
+  <p>
+    Housing is the largest item in most household budgets, and its price moves the
+    decisions that demographers care about most. This strand asks how housing prices,
+    rents, and mortgage credit affect fertility, the timing of births, marriage and
+    divorce, and the formation of independent households. Current work studies bank
+    credit expansion and fertility, the widening fertility gap between renters and
+    owners, the pass-through of land use regulation into childcare costs, and how
+    property division law in China changed birth rates and household saving.
+  </p>
+</div>
 
----
+<div class="theme">
+  <span class="theme-name">Housing Wealth, Labor Supply, and Inequality</span>
+  <p>
+    Housing is also the main asset most families hold. Using linked administrative and
+    restricted Census microdata, this strand traces how housing wealth feeds back into
+    labor market behavior and the distribution of wealth, including female labor supply,
+    retirement timing, intergenerational investment in college, post-unemployment wages,
+    and the long-run wealth consequences of credit market deregulation.
+  </p>
+</div>
 
-<!-- 
-- I presented at the NBER Conference "Fertility and Declining Population Growth in High-Income Countries" in June of 2023.
-- I visited the MIT Center for Real Estate and presented at the first MIT Asia Real Estate Symposium in August of 2023.
-- I will present at the Lusk Center for Real Estate at the University of Southern California in October of 2023.
-- I will present at the Economics Department of Southern Methodist University in November of 2023.
-- I will present at the AREUEA Virtual Seminar in December of 2023.
-- I will visit Institute for Research on Labor and Employment (IRLE) at UC Berkeley the fall of 2024.
-- My research received grant from the U.S. Social Security Administration (SSA) funded as part of the Retirement and Disability Research Consortium [[RDRC]](https://rdrc.wisc.edu/projects).
-- I will present at the [Workshop on Changing Demographics and Housing Demand](https://www.philadelphiafed.org/calendar-of-events/workshop-on-changing-demographics-and-housing-demand) in October of 2024.
-- I will present at the Association for Public Policy Analysis & Management (APPAM) in November of 2024.
-- I will attend the ASSA-AEA Meeting in January of 2025.
-- I will attend and present at the AREUEA National conference (May 2025).
-- I will attend and present at the Sixth World Labor Conference hosted by Society of Labor Economists (SOLE) (June 2025).
+<div class="theme">
+  <span class="theme-name">Housing, Land Use, and Welfare Policy</span>
+  <p>
+    Policies aimed at housing and at low-income households often have consequences well
+    outside their stated purpose. This strand evaluates rent regulation, zoning and land
+    use regulation, property tax limits and abatements, and the interaction of SNAP and
+    SSI in supporting the economic security of older adults.
+  </p>
+</div>
+
+</div>
+
+## News
+
+<div class="news" markdown="0">
+<ul>
+  <li><span class="when">2026</span> Named Affiliate Faculty in the Anuradha and Vikas Sinha Department of Data Science at UNT.</li>
+  <li><span class="when">2026</span> Received a Peer-to-Peer Mentoring Program Grant from CSWEP.</li>
+  <li><span class="when">2026</span> Presented at the ASSA Annual Meeting (AREUEA and Society of Government Economists sessions), the SOLE Annual Meeting, and the Southern Economic Association Annual Meeting.</li>
+  <li><span class="when">2026</span> Presented two papers at the Seoul National University workshop on Housing Affordability and Demographic Dynamics, and at the University of Auckland Property Seminar.</li>
+  <li><span class="when">2025</span> "Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City" (with Hanchen Jiang and Luis Quintero) appeared in the <i>Journal of Urban Economics</i>.</li>
+  <li><span class="when">2025</span> Joined the editorial board of <i>International Studies of Economics</i>, and presented at the Urban Institute Housing Finance Policy Center.</li>
+  <li><span class="when">2025</span> Received an Early Career Research Award from the W.E. Upjohn Institute (with Hanchen Jiang) and a grant from the Institute for Humane Studies (with Yang Zhou).</li>
+  <li><span class="when">2025</span> Began teaching Economics of Inequality and Discrimination at UNT.</li>
+</ul>
+</div>
+
+<!-- TODO Xi: keep this list to roughly eight entries. When you add a new one,
+     move the oldest into the archive comment below. -->
+
+<!-- Archive of older news
+- Academic Committee Member, Housing Finance Policy Center, Urban Institute (2024-present).
+- Board member, Chinese Economists Society (2024-2025); program organizer for CES sessions at the 2026 ASSA Meeting.
+- Visiting Scholar, Institute for Research on Labor and Employment, UC Berkeley (Fall 2024).
+- RDRC grant from the Social Security Administration, via the University of Wisconsin-Madison, with Robert A. Moffitt (2024-2025).
+- Research Advisor, Texas Zoning Atlas (2023-2024).
+- Visiting Scholar, MIT Center for Real Estate (August 2023); presented at the NBER Conference on Fertility and the MIT Asia Real Estate Symposium.
+- NBER-NSF Mentorship Program (2023-2024); Russell Sage Foundation Proposal Development Summer Institute Scholar (2021).
 -->
 
-- "Does Rent Control Increase Tenant Unemployment?" is published at [Journal of Urban Economics](https://www.sciencedirect.com/science/article/pii/S0094119025000555?dgcid=author).
-- I will present at 2025 [Federal Statistical Research Data Center (FSRDC) Annual Research Conference](https://socialsciences.cornell.edu/nyrdc/fsrdc/annual-research-conference-cornell-university) the fall of 2025
-- I will present at	North American Meeting of the **Urban Economics Association** the fall of 2025.
-- I will start teaching **Economics of Inequality and Discrimination** the fall of 2025.
-- I was elected to serve as a board member of the **Chinese Economists Society (CES)** for the 2024-2025 term.
+## Working Papers
 
-<br/>
+#### Revise and Resubmit
 
-## Working Papers and Work in Progress
+<div class="paper">
+  <span class="title">More Credit, More Babies? Bank Credit Expansion, Housing Prices, and Fertility</span>
+  <span class="meta">Single authored</span>
+  <span class="links">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936">SSRN working paper</a>
+    <a href="/assets/doc/Bank_Credit_Supply_and_Fertility_XiYang_slides_2023_NBER.pdf">NBER slides</a>
+  </span>
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      This paper estimates the causal impact of bank credit expansion on fertility by exploiting U.S.
+      interstate banking deregulation in the 1990s. Using the staggered difference-in-differences method,
+      I find that increased credit supply reduces fertility rates by 10 percent and raises maternal age at
+      first birth by 0.76 percent. Further investigation shows that the main mechanism that generates the
+      fertility response is the increase in housing prices from the credit expansion, which is more evident
+      in areas where the housing supply is inelastic. My findings uncover a new channel linking financial
+      market policies to demographic outcomes via housing affordability.
+    </p>
+  </details>
+  <details>
+    <summary>Figure</summary>
+    <img src="/assets/img/Fertility1544_yeartrend_bypolicyland.png" alt="Fertility rate trends by year, split by housing supply elasticity and deregulation timing">
+  </details>
+</div>
 
----
+<div class="paper">
+  <span class="title">The Finance-Education Nexus: Educational Consequences of U.S. Interstate Bank Branching Deregulation</span>
+  <span class="meta">with <a href="https://sites.google.com/view/jian-zou">Jian Zou</a></span>
+  <span class="links">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608694">Working paper</a>
+  </span>
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      This paper studies the impact of US interstate branching deregulation on school
+      finance and student achievement by exploiting the deregulation as state tax
+      revenue shocks. Leveraging school finance data from universal school districts,
+      our difference-in-differences estimation reveals that deregulation leads to increased
+      per-pupil total revenue and expenditure. The rise in revenue is primarily attributed to
+      higher state revenues, while expenditure increases are more prominent in low-income
+      school districts. Analysis of restricted-use student assessments from the Nation's
+      Report Card shows that deregulation improves student achievement, with no
+      distributional effects evident across students' ability, race, or free lunch status. We
+      introduce an instrumental variables approach that accounts for dynamic treatment
+      effects and estimate that a one-thousand-dollar increase in per-pupil spending leads to
+      a 0.035-0.057 standard deviation improvement in student achievement.
+    </p>
+  </details>
+</div>
 
+<div class="paper">
+  <span class="title">Fertility Rates for Renters Have Fallen More than for Owners: What Explains the Divergence?</span>
+  <span class="meta">with Jung Hyun Choi (Urban Institute)</span>
+  <span class="links">
+    <a href="mailto:xi.yang@unt.edu?subject=Draft%20request">Draft available on request</a>
+  </span>
+</div>
 
+#### Working Papers
 
-**More Credit, More Babies? Bank Credit Expansion, House Prices, and Fertility** [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473936)
-[[NBER Slides]](/assets/doc/Bank_Credit_Supply_and_Fertility_XiYang_slides_2023_NBER.pdf) Submitted
-<details>
-  <summary>Abstract</summary>
-  <p>
-This paper estimates the causal impact of bank credit expansion on fertility by exploiting U.S.
-interstate banking deregulation in the 1990s. Using the staggered difference-in-differences method,
-I find that increased credit supply reduces fertility rates by 10 percent and raises maternal age at
-first birth by 0.76 percent. Further investigation shows that the main mechanism that generates the
-fertility response is the increase in housing prices from the credit expansion, which is more evident
-in areas where the housing supply is inelastic. My findings uncover a new channel linking financial
-market policies to demographic outcomes via housing affordability.
-  </p>
-</details>
+<div class="paper">
+  <span class="title">Housing Wealth and Female Labor Supply: Evidence from Geographically Linked Microdata</span>
+  <span class="tag tag-sub">Under review</span>
+  <span class="meta">Single authored. U.S. Census Research Data Center project.</span>
+  <span class="links">
+    <a href="mailto:xi.yang@unt.edu?subject=Draft%20request">Draft available on request</a>
+  </span>
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      This study examines the causal effect of housing wealth on labor supply using restricted geographic
+      data from the Survey of Income and Program Participation. It employs a novel household-level
+      instrument that measures the duration of homeowners' exposure to the housing market boom, driven by
+      credit expansion in supply-inelastic areas, by exploiting household-level variation in home purchase
+      timing. Results show a significant negative relationship between housing wealth and labor supply,
+      particularly for women: a 1 percent increase in housing wealth reduces women's labor force
+      participation by 0.098 percentage points, with no significant effect for men. The effect is strongest
+      among college-educated mothers of young children, underscoring how childcare responsibilities shape
+      this wealth effect.
+    </p>
+  </details>
+</div>
 
-<details>
-  <summary>Figure</summary>
-  <img src="assets/img/Fertility1544_yeartrend_bypolicyland.png" alt="Fertility Rate">
-</details>
+<div class="paper">
+  <span class="title">Property Division Law and Fertility: Evidence from China</span>
+  <span class="tag tag-sub">Under review</span>
+  <span class="meta">with <a href="https://scholar.google.com/citations?user=WNveNqUAAAAJ&amp;hl=en">Ang Sun</a>, <a href="http://www.emmazang.net/">Emma Zang</a>, and Zitong Wang</span>
+  <span class="links">
+    <a href="mailto:xi.yang@unt.edu?subject=Draft%20request">Draft available on request</a>
+  </span>
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      Marriage offers a way for couples to share the costs of investments in household public goods, such
+      as children and household savings. By changing the commitment value of marriage, divorce laws can
+      affect household investments in public goods. This theory, however, is rarely tested in the
+      literature. This study fills the gap by exploring the effect of a legal change in China that altered
+      the property division rule upon divorce, from an equal-division regime to a title-based one. We
+      compared birth rates and household savings of affected and unaffected families before and after the
+      legal change using a difference-in-differences design, and find that title-based property division
+      decreased birth rates. These results are consistent with the theory that title-based property
+      division can reduce the commitment value of marriage and subsequently reduce household investments
+      in public goods.
+    </p>
+  </details>
+</div>
 
-**The Finance-Education Nexus: Educational Consequences of US Interstate Bank Branching Deregulation** [[EdWorking Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608694)(with [Jian Zou](https://sites.google.com/view/jian-zou)) Submitted
-<details>
-  <summary>Abstract</summary>
-  <p>
-This paper studies the impact of US interstate branching deregulation on school
-finance and student achievement by exploiting the deregulation as state tax
-revenue shocks. Leveraging school finance data from universal school districts,
-our difference-in-differences estimation reveals that deregulation leads to increased
-per-pupil total revenue and expenditure. The rise in revenue is primarily attributed to
-higher state revenues, while expenditure increases are more prominent in low-income
-school districts. Analysis of restricted-use student assessments from the Nation’s
-Report Card shows that deregulation improves student achievement, with no
-distributional effects evident across students’ ability, race, or free lunch status. We
-introduce an instrumental variables approach that accounts for dynamic treatment
-effects and estimate that a one-thousand-dollar increase in per-pupil spending leads to
-a 0.035-0.057 standard deviation improvement in student achievement.
-  </p>
-</details>
+<div class="paper">
+  <span class="title">SNAP, SSI, and the Economic Security of Older Adults</span>
+  <span class="meta">with <a href="https://econ.jhu.edu/directory/robert-a-moffitt/">Robert A. Moffitt</a></span>
+  <span class="links">
+    <a href="mailto:xi.yang@unt.edu?subject=Draft%20request">Draft available on request</a>
+  </span>
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      Both the SSI and SNAP programs provide critical assistance in reducing economic insecurity among
+      older nondisabled low-income adults. In this study, we examine how programmatic policy changes
+      affecting SNAP and SNAP-SSI joint receipt of benefits by older nondisabled adults have affected
+      their participation in those programs and, in turn, whether the changes in participation induced by
+      those policies have affected outcomes for material hardship, home and vehicle ownership, and other
+      variables, with particular attention to how the results differ across household asset levels. We find
+      strong effects of several program policies on older nondisabled adult SNAP and SNAP-SSI participation
+      but the effects of different policies differ markedly by a household's level of liquid assets. The
+      increases in program participation resulting from the policies reduce material hardship for all
+      households and lead high-asset households to reduce their holdings of illiquid assets.
+    </p>
+  </details>
+</div>
 
-<!--
-**More Credit, More Homeowners? Bank Credit Expansion, Homeownership, and Housing Wealth Accumulation** [Draft coming soon]
-<details>
-  <summary>Abstract</summary>
-  <p>
-This paper examines the causal effect of bank credit expansion on house price, homeownership, and housing wealth accumulation by exploiting exogenous increases in bank credit supply coming from U.S. interstate branching deregulation between 1994 and 2005. Adopting both the traditional dynamic difference-in-difference (DID) method and a newly developed staggered DID method, I find state-level banking deregulation has a sharp and persistent negative effect on the probability of becoming a homeowner particularly in areas with inelastic housing supply. Meanwhile, the banking deregulation has persistent positive effects on wealth accumulation among households who were already homeowners before the deregulation. This wealth effect is not significant among renters. These results reveal the important role of financial market policies on the growing wealth inequality.
-  </p>
-</details>
--->
+<div class="paper">
+  <span class="title">Housing Wealth, Liquidity, and Retirement Timing: Evidence from Linked Administrative Data</span>
+  <span class="meta">Single authored. U.S. Census Research Data Center project.</span>
+</div>
 
-**Housing Wealth and Labor Supply: Evidence from Geographically-linked Microdata** [Draft coming soon]
-<br/>
-(Census Research Data Center Project)
+<div class="paper">
+  <span class="title">Housing Wealth and Intergenerational Investment: Evidence on College Enrollment from Linked Administrative Data</span>
+  <span class="meta">Single authored. U.S. Census Research Data Center project.</span>
+</div>
 
-<details>
-  <summary>Abstract</summary>
-  <p>
-This study examines the causal effect of housing wealth on labor supply using restricted geographic data from the Survey of Income and Program Participation (SIPP). It employs a novel household-level instrument that measures the duration of homeowners' exposure to the housing market boom, driven by credit expansion in supply-inelastic areas, by exploiting household-level variation in home purchase timing. Results show a significant negative relationship between housing wealth and labor supply, particularly for women: a 1\% increase in housing wealth reduces women’s labor force participation by 0.098 percentage points, with no significant effect for men. The effect is strongest among college-educated mothers of young children, underscoring how childcare responsibilities shape this wealth effect.
-  </p>
-</details>
+<div class="paper">
+  <span class="title">Land Use Regulation, Housing Costs, and Childcare Costs</span>
+  <span class="meta">with Chang Jae (CJ) Lee</span>
+</div>
 
-**SNAP, SSI, and Economic Security of Older Adults** [Draft coming soon]
-<br/>
-(with [Robert Moffitt](https://econ.jhu.edu/directory/robert-a-moffitt/))
+#### Selected Work in Progress
 
-<details>
-  <summary>Abstract</summary>
-  <p>
-    Both the SSI and SNAP programs provide critical assistance in reducing economic insecurity among older nondisabled low-income adults. In this study, we examine how programmatic policy changes affecting SNAP and SNAP-SSI joint receipt of benefits by older nondisabled adults have affected their participation in those programs and, in turn, whether the changes in participation induced by those policies have affected outcomes for material hardship, home and vehicle ownership, and other variables, with particular attention to how the results differ across household asset levels. We find strong effects of several program policies on older nondisabled adult SNAP and SNAP-SSI participation but the effects of different policies differ markedly by a household's level of liquid assets. The increases in program participation resulting from the policies reduce material hardship for all households and lead high-asset households to reduce their holdings of illiquid assets.
-  </p>
-</details>
-
-**Property Division Law and Fertility: Evidence from China** [Draft coming soon]
-<br/>
-(with [Ang Sun](https://scholar.google.com/citations?user=WNveNqUAAAAJ&hl=en), [Emma Zang](http://www.emmazang.net/) and Zitong Wang)
-
-<details>
-  <summary>Abstract</summary>
-  <p>
-  Marriage offers a way for couples to share the costs of investments in household public goods, such as children and household savings. By changing the commitment value of marriage, divorce laws can affect household investments in public goods. This theory, however, is rarely tested in the literature. This study fills the gap by exploring the effect of a legal change in China that altered the property division rule upon divorce, from an equal-division regime to a title-based one. We compared birth rates and household savings of affected and unaffected families before and after the legal change using a difference-in-differences design, and find that title-based property division decreased birth rates. These results are consistent with the theory that title-based property division can reduce the commitment value of marriage and subsequently reduce household investments in public goods.
-  </p>
-</details>
-
-<!-- 
-**Housing Wealth as Human Capital Investment: Evidence from a Regression Discontinuity Design**
-<br/>
-(with Ninghua Zhong)
-
-**Do the Math! High School Math Requirements and Gender Wage and Location Gap**
-
-**Parental Migration, Investment in Children, and Children's Non-cognitive Development: Evidence from Rural China** [[GLO Working Paper]](https://glabor.org/september-12-2019-new-glo-discussion-paper-on-parental-migration-investment-in-children-and-childrens-non-cognitive-development-evidence-from-rural-china/)
-<br/>
-(with Hanchen Jiang)
--->
-
-<br/>
+<ul class="wip">
+  <li>Credit Expansion, Land Use Regulation, and Wealth Inequality: Evidence from Household-Level Data</li>
+  <li>Housing Assistance and Labor Supply: The Case of Rent Control, with Hanchen Jiang and Huan Deng</li>
+  <li>The Long-Run and Intergenerational Impacts of Credit Access on Wealth: Evidence from Bank Deregulations, with John Anders and Craig Carpenter (Census RDC project, in preparation for NSF submission)</li>
+  <li>Housing Affordability and Fertility Sentiment: Evidence from Large Language Models and Reddit Data, with Haihua Chen (in preparation for Russell Sage Foundation submission)</li>
+  <li>The Geographic Divergence of Fertility Rates: Evidence from Restricted CDC National Vital Statistics Data</li>
+  <li>Housing Market Dynamics and Household Time Use, with Jiao Yang and Xiaolong Hou</li>
+  <li>Zoning Reform as Childcare Policy: Evidence from Accessory Dwelling Unit (ADU) Legalization</li>
+</ul>
 
 ## Publications
 
----
+#### Invited Chapters
 
-**Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City** [[Journal link]](https://www.sciencedirect.com/science/article/pii/S0094119025000555?dgcid=author) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964) **Journal of Urban Economics**, 149, 2025
-<br/>
-(with [Hanchen Jiang](https://sites.google.com/view/hjiang/) and [Luis Quintero](https://www.luisequintero.org/))
-<details>
-  <summary>Abstract</summary>
-  <p>
- This paper examines the impact of rent regulation on tenants' unemployment in New York City. We provide evidence that rent stabilization increases tenants' unemployment by over five percentage points using data from 2002 and 2017. To address endogeneity concerns, we employ an instrumental variable strategy that exploits the local historical availability of rent-stabilized units when tenants move in as an exogenous source of variation for occupying a rent-stabilized unit. We also develop a job-search model to explain the underlying mechanisms of rent regulation's unemployment effects. Our findings underscore the need for policymakers to consider the unintended consequences of rent regulation.
-  </p>
-</details>
+<div class="paper">
+  <span class="title">Causal Analysis of Child-Care Policies</span>
+  <span class="meta">Invited chapter, <i>Handbook of Labor, Human Resources, and Population Economics</i>. With <a href="https://sites.google.com/view/hjiang/">Hanchen Jiang</a>.</span>
+</div>
 
+#### Peer-Reviewed Journal Articles
 
-**Housing Wealth as Precautionary Savings: Evidence from Urban China** [[Working Paper]](https://lusk.usc.edu/sites/default/files/working_papers/Housing_Wealth_as_Precautionary_Savings_2020_07_07.pdf) [[Journal link]](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/housing-wealth-as-precautionary-saving-evidence-from-urban-china/F89D4B7E92E87AC2C8406B1B698F4622)
-<br/>
-(with [Gary Painter](https://priceschool.usc.edu/people/gary-dean-painter/) and [Ninghua Zhong](https://sem.tongji.edu.cn/semen/12410.html)), **Journal of Financial and Quantitative Analysis**,  57(2), 761-789, 2022
+<div class="paper">
+  <span class="title">Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City</span>
+  <span class="meta"><i>Journal of Urban Economics</i>, 149, 2025. With <a href="https://sites.google.com/view/hjiang/">Hanchen Jiang</a> and <a href="https://www.luisequintero.org/">Luis Quintero</a>.</span>
+  <span class="links">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0094119025000555?dgcid=author">Journal</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964">Working paper</a>
+  </span>
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      This paper examines the impact of rent regulation on tenants' unemployment in New York City. We
+      provide evidence that rent stabilization increases tenants' unemployment by over five percentage
+      points using data from 2002 and 2017. To address endogeneity concerns, we employ an instrumental
+      variable strategy that exploits the local historical availability of rent-stabilized units when
+      tenants move in as an exogenous source of variation for occupying a rent-stabilized unit. We also
+      develop a job-search model to explain the underlying mechanisms of rent regulation's unemployment
+      effects. Our findings underscore the need for policymakers to consider the unintended consequences
+      of rent regulation.
+    </p>
+  </details>
+</div>
 
-**Human Capital Externalities or Consumption Spillovers? The Effect of High-skill Human Capital across Low-skill Labor Markets** [[Journal link]](https://www.sciencedirect.com/science/article/pii/S0166046220303057) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335809)
-<br/>
-(with [Shimeng Liu](https://sites.google.com/site/shimengliuecon/)), **Homer Hoyt Institute Best Paper Award**, Asian Real Estate Society<br/>**Regional Science and Urban Economics**, 87, 2021
+<div class="paper">
+  <span class="title">Housing Wealth as Precautionary Saving: Evidence from Urban China</span>
+  <span class="meta"><i>Journal of Financial and Quantitative Analysis</i>, 57(2), 761-789, 2022. With <a href="https://priceschool.usc.edu/people/gary-dean-painter/">Gary Painter</a> and <a href="https://sem.tongji.edu.cn/semen/12410.html">Ninghua Zhong</a>.</span>
+  <span class="links">
+    <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/housing-wealth-as-precautionary-saving-evidence-from-urban-china/F89D4B7E92E87AC2C8406B1B698F4622">Journal</a>
+    <a href="https://lusk.usc.edu/sites/default/files/working_papers/Housing_Wealth_as_Precautionary_Savings_2020_07_07.pdf">Working paper</a>
+  </span>
+</div>
 
-**Land Use Regulations and Urban Growth of African Americans** [[Journal link]](https://journals.sagepub.com/doi/abs/10.1177/08912424211032291?journalCode=edqa) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051843)<br/>*Economic Development Quarterly*, 35(4), 338-350, 2021
+<div class="paper">
+  <span class="title">Human Capital Externalities or Consumption Spillovers? The Effect of High-Skill Human Capital across Low-Skill Labor Markets</span>
+  <span class="meta"><i>Regional Science and Urban Economics</i>, 87, 2021. With <a href="https://sites.google.com/site/shimengliuecon/">Shimeng Liu</a>. Homer Hoyt Institute Best Paper Award, Asian Real Estate Society.</span>
+  <span class="links">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0166046220303057">Journal</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335809">Working paper</a>
+  </span>
+</div>
 
-**Impact of Land Use Regulation Across the Conditional Distribution of Home Prices: An Application of Quantile Regression for Group Level Treatments** [[Journal link]](https://link.springer.com/article/10.1007/s00168-020-01032-z)
-<br/>
-(with [Tammy Leonard](https://profiles.utsouthwestern.edu/profile/144971/tammy-leonard.html) and [Lei Zhang](https://www.odu.edu/directory/dr-lei-zhang)​)​, *Annals of Regional Science*, 66, 655–676, 2021
+<div class="paper">
+  <span class="title">Land Use Regulations and Urban Growth of African Americans</span>
+  <span class="meta"><i>Economic Development Quarterly</i>, 35(4), 338-350, 2021. Single authored.</span>
+  <span class="links">
+    <a href="https://journals.sagepub.com/doi/abs/10.1177/08912424211032291?journalCode=edqa">Journal</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051843">Working paper</a>
+  </span>
+</div>
 
-**Property Tax Limits and Female Labor Supply: Evidence from the Housing Boom and Bust** [[Journal link]](https://www.sciencedirect.com/science/article/pii/S1051137720300504) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666755)
-<br/>
-(with [Shimeng Liu](https://sites.google.com/site/shimengliuecon/)), *Journal of Housing Economics*, 50, 2020
+<div class="paper">
+  <span class="title">Impact of Land Use Regulation across the Conditional Distribution of Home Prices: An Application of Quantile Regression for Group-Level Treatments</span>
+  <span class="meta"><i>Annals of Regional Science</i>, 66, 655-676, 2021. With <a href="https://profiles.utsouthwestern.edu/profile/144971/tammy-leonard.html">Tammy Leonard</a> and <a href="https://www.odu.edu/directory/dr-lei-zhang">Lei Zhang</a>.</span>
+  <span class="links">
+    <a href="https://link.springer.com/article/10.1007/s00168-020-01032-z">Journal</a>
+  </span>
+</div>
 
-**Housing Demand and Household Saving in China: Evidence from a Housing Reform** [[Journal link]](https://www.sciencedirect.com/science/article/abs/pii/S1051137720300292#:~:text=Chinese%20government%20abolished%20the%20employer,housing%20demand%20among%20urban%20households.&text=We%20find%20evidence%20that%20the,private%20burden%20of%20housing%20expenditures.) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051846)
-<br/>
-(with [Binkai Chen](https://econ.cufe.edu.cn/info/1032/5944.htm) and [Ninghua Zhong](https://sem.tongji.edu.cn/semen/12410.html)), *Journal of Housing Economics*,  49, 2020
+<div class="paper">
+  <span class="title">Property Tax Limits and Female Labor Supply: Evidence from the Housing Boom and Bust</span>
+  <span class="meta"><i>Journal of Housing Economics</i>, 50, 2020. With <a href="https://sites.google.com/site/shimengliuecon/">Shimeng Liu</a>.</span>
+  <span class="links">
+    <a href="https://www.sciencedirect.com/science/article/pii/S1051137720300504">Journal</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666755">Working paper</a>
+  </span>
+</div>
 
-**Impact of Property Tax Abatement Incentives on Economic Growth** [[Journal link]](https://journals.sagepub.com/doi/abs/10.1177/0891242420911712)
-<br/>
-(with [Tammy Leonard](https://profiles.utsouthwestern.edu/profile/144971/tammy-leonard.html), [Lei Zhang](https://www.odu.edu/directory/dr-lei-zhang),  and Connor Reed), *Economic Development Quarterly*, 34(2), 209-221, 2020
+<div class="paper">
+  <span class="title">Housing Demand and Household Saving in China: Evidence from a Housing Reform</span>
+  <span class="meta"><i>Journal of Housing Economics</i>, 49, 2020. With <a href="https://econ.cufe.edu.cn/info/1032/5944.htm">Binkai Chen</a> and <a href="https://sem.tongji.edu.cn/semen/12410.html">Ninghua Zhong</a>.</span>
+  <span class="links">
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1051137720300292">Journal</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051846">Working paper</a>
+  </span>
+</div>
 
-**The Effect of Home Ownership on Post-unemployment Wages** [[Journal link]](http://www.sciencedirect.com/science/article/pii/S0166046217303186) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051836)<br/>**Regional Science and Urban Economics (lead article)**, 74, 1-17, 2019
+<div class="paper">
+  <span class="title">Impact of Property Tax Abatement Incentives on Economic Growth</span>
+  <span class="meta"><i>Economic Development Quarterly</i>, 34(2), 209-221, 2020. With <a href="https://profiles.utsouthwestern.edu/profile/144971/tammy-leonard.html">Tammy Leonard</a>, <a href="https://www.odu.edu/directory/dr-lei-zhang">Lei Zhang</a>, and Connor Reed.</span>
+  <span class="links">
+    <a href="https://journals.sagepub.com/doi/abs/10.1177/0891242420911712">Journal</a>
+  </span>
+</div>
 
-**Market Facilitation by Local Government and Firm Efficiency: Evidence from China** [[Journal link]](http://www.sciencedirect.com/science/article/pii/S092911991500070X) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2350534)
-<br/>
-(with Robert Cull, Lixin Collin Xu, Li-An Zhou, and Tian Zhu), *Journal of Corporate Finance*, 42, 460-480, 2017
+<div class="paper">
+  <span class="title">The Effect of Home Ownership on Post-Unemployment Wages</span>
+  <span class="meta"><i>Regional Science and Urban Economics</i> (lead article), 74, 1-17, 2019. Single authored.</span>
+  <span class="links">
+    <a href="http://www.sciencedirect.com/science/article/pii/S0166046217303186">Journal</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051836">Working paper</a>
+  </span>
+</div>
 
-**Environmental Compliance and Firm Performance: Evidence from China** [[Journal link]](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0084.2011.00649.x/abstract) [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2050237)
-<br/>
-(with [Yang Yao](https://en.nsd.pku.edu.cn/faculty/fulltime/y/239558.htm)), *Oxford Bulletin of Economics and Statistics*, 74(3), 397-424, 2012
+<div class="paper">
+  <span class="title">Market Facilitation by Local Government and Firm Efficiency: Evidence from China</span>
+  <span class="meta"><i>Journal of Corporate Finance</i>, 42, 460-480, 2017. With Robert Cull, Lixin Colin Xu, Li-An Zhou, and Tian Zhu.</span>
+  <span class="links">
+    <a href="http://www.sciencedirect.com/science/article/pii/S092911991500070X">Journal</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2350534">Working paper</a>
+  </span>
+</div>
+
+<div class="paper">
+  <span class="title">Environmental Compliance and Firm Performance: Evidence from China</span>
+  <span class="meta"><i>Oxford Bulletin of Economics and Statistics</i>, 74(3), 397-424, 2012. With <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/y/239558.htm">Yang Yao</a>.</span>
+  <span class="links">
+    <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0084.2011.00649.x/abstract">Journal</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2050237">Working paper</a>
+  </span>
+</div>

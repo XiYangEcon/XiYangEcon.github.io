@@ -7,64 +7,58 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/x-icon" href="{{site.favicon | relative_url}}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    <link rel="icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
     {% include head-custom.html %}
   </head>
   <body>
+    <a class="skip-link" href="#content">Skip to content</a>
     <div class="wrapper">
 
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">XI YANG (杨希)</a></h1>
+        <h1 class="site-name"><a href="{{ "/" | relative_url }}">Xi Yang<span class="cjk"> (杨希)</span></a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img class="portrait" src="{{ site.logo | relative_url }}" alt="Portrait of Xi Yang" />
         {% endif %}
 
-        <p>
+        <p class="affiliation">
+          Associate Professor of Economics<br/>
+          University of North Texas
+        </p>
+
+        <p class="contact">
           <b>Contact</b>
-          <small>
-            <br/>
-            <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1331861">SSRN Page</a>
-            <br/>
-            <a href="https://scholar.google.com/citations?user=53Hr2jgAAAAJ&hl=en">Google Scholar</a>
-            <br/>
-            <a href="mailto:xi.yang@unt.edu">Xi.Yang@UNT.edu</a>
-            <br/>
-            <a href="https://twitter.com/SheenEcon">@SheenEcon/Twitter</a>
-          </small>
+          <a href="mailto:xi.yang@unt.edu">Xi.Yang@UNT.edu</a>
+          <a href="{{ site.cv | relative_url }}">Curriculum Vitae (PDF)</a>
+        </p>
+
+        <p class="profiles">
+          <b>Profiles</b>
+          {% if site.profiles.scholar %}<a href="{{ site.profiles.scholar }}">Google Scholar</a>{% endif %}
+          {% if site.profiles.ssrn %}<a href="{{ site.profiles.ssrn }}">SSRN</a>{% endif %}
+          {% if site.profiles.repec %}<a href="{{ site.profiles.repec }}">IDEAS/RePEc</a>{% endif %}
+          {% if site.profiles.orcid %}<a href="{{ site.profiles.orcid }}">ORCID</a>{% endif %}
+          {% if site.profiles.x %}<a href="{{ site.profiles.x }}">X (@SheenEcon)</a>{% endif %}
+          {% if site.profiles.bluesky %}<a href="{{ site.profiles.bluesky }}">Bluesky</a>{% endif %}
         </p>
       </header>
 
-      <section>
-        <div class="navbar">
-          <table>
-            <tbody>
-              <tr>
-                <td><a href="index.html">Home</a></td>
-                <td><a href="{{site.cv | relative_url}}">CV</a></td>
-                <td><a href="./teaching.html">Teaching</a></td>
-              </tr>
-            </tbody>
-          </table>
-        </div>  
+      <section id="content">
+        <nav class="navbar" aria-label="Main">
+          <a href="{{ "/" | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a>
+          <a href="{{ site.cv | relative_url }}">CV</a>
+          <a href="{{ "/teaching.html" | relative_url }}"{% if page.url contains "teaching" %} aria-current="page"{% endif %}>Teaching</a>
+        </nav>
 
       {{ content }}
 
       </section>
       <footer>
-
-        <!-- 
-        {% if site.github.is_project_page %}
-          <p>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        -->
-
-        <p><small>Hosted on GitHub Pages<br/> &mdash; Theme by <a href="https://github.com/pages-themes">GitHub Pages themes</a></small></p>
+        <p><small>
+          {% if site.last_updated %}Last updated {{ site.last_updated }}.<br/>{% endif %}
+          &copy; {{ site.time | date: "%Y" }} Xi Yang
+        </small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

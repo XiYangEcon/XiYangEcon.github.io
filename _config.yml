@@ -1,10 +1,57 @@
 exclude: ['LICENSE', 'README.md', 'script', 'Gemfile', 'Gemfile.lock']
 
 title: Xi Yang
-description: Econ
+tagline: Economist
+description: >-
+  Xi Yang is an Associate Professor of Economics at the University of North
+  Texas. Her research in labor and urban economics studies how housing, credit,
+  and welfare policy shape family formation, labor supply, and inequality.
+
+url: https://xiyangecon.github.io
+lang: en-US
+
+author:
+  name: Xi Yang
+  email: Xi.Yang@UNT.edu
+  twitter: SheenEcon
+
+twitter:
+  username: SheenEcon
+  card: summary
+
+social:
+  name: Xi Yang
+  links:
+    - https://scholar.google.com/citations?user=53Hr2jgAAAAJ&hl=en
+    - https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1331861
+    - https://x.com/SheenEcon
+
 google_analytics: G-CQ7BQWV1WC
+
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/img/logo.png
 
 logo: /assets/img/logo.png
 favicon: /assets/img/favicon.ico
+image: /assets/img/logo.png
 cv: /assets/doc/xi_yang_cv.pdf
+
+# Shown in the site footer. Update whenever you touch the content.
+last_updated: September 2026
+
+# Sidebar profile links. Comment out or delete any line you do not want shown.
+profiles:
+  scholar: https://scholar.google.com/citations?user=53Hr2jgAAAAJ&hl=en
+  ssrn: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1331861
+  # repec: https://ideas.repec.org/f/pyaXX.html      # TODO add your IDEAS/RePEc author page
+  # orcid: https://orcid.org/0000-0000-0000-0000     # TODO add your ORCID iD
+  x: https://x.com/SheenEcon
+  # bluesky: https://bsky.app/profile/YOURHANDLE     # TODO add if you use Bluesky
