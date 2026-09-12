@@ -69,10 +69,10 @@ editorial board of *International Studies of Economics*.
 
 <div class="news" markdown="0">
 <ul>
+  <li><span class="when">2026</span> Will present at the University of Auckland Property Seminar, the Dallas Applied Micro Accelerator Group Seminar, and Seoul National University ("Housing Affordability and Demographic Dynamics") in fall 2026.</li>
   <li><span class="when">2026</span> Named Affiliate Faculty in the Anuradha and Vikas Sinha Department of Data Science at UNT.</li>
   <li><span class="when">2026</span> Received a Peer-to-Peer Mentoring Program Grant from CSWEP.</li>
   <li><span class="when">2026</span> Presented at the ASSA Annual Meeting (AREUEA and Society of Government Economists sessions), the SOLE Annual Meeting, and the Southern Economic Association Annual Meeting.</li>
-  <li><span class="when">2026</span> Presented two papers at the Seoul National University workshop on Housing Affordability and Demographic Dynamics, and at the University of Auckland Property Seminar.</li>
   <li><span class="when">2025</span> "Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City" (with Hanchen Jiang and Luis Quintero) appeared in the <i>Journal of Urban Economics</i>.</li>
   <li><span class="when">2025</span> Joined the editorial board of <i>International Studies of Economics</i>, and presented at the Urban Institute Housing Finance Policy Center.</li>
   <li><span class="when">2025</span> Received an Early Career Research Award from the W.E. Upjohn Institute (with Hanchen Jiang) and a grant from the Institute for Humane Studies (with Yang Zhou).</li>
@@ -244,28 +244,25 @@ editorial board of *International Studies of Economics*.
 
 #### Selected Work in Progress
 
-<ul class="wip">
-  <li>Credit Expansion, Land Use Regulation, and Wealth Inequality: Evidence from Household-Level Data</li>
-  <li>Housing Assistance and Labor Supply: The Case of Rent Control, with Hanchen Jiang and Huan Deng</li>
-  <li>The Long-Run and Intergenerational Impacts of Credit Access on Wealth: Evidence from Bank Deregulations, with John Anders and Craig Carpenter (Census RDC project, in preparation for NSF submission)</li>
-  <li>Housing Affordability and Fertility Sentiment: Evidence from Large Language Models and Reddit Data, with Haihua Chen (in preparation for Russell Sage Foundation submission)</li>
-  <li>The Geographic Divergence of Fertility Rates: Evidence from Restricted CDC National Vital Statistics Data</li>
-  <li>Housing Market Dynamics and Household Time Use, with Jiao Yang and Xiaolong Hou</li>
-  <li>Zoning Reform as Childcare Policy: Evidence from Accessory Dwelling Unit (ADU) Legalization</li>
-</ul>
+<details>
+  <summary>Show list (7)</summary>
+  <ul class="wip">
+    <li>Credit Expansion, Land Use Regulation, and Wealth Inequality: Evidence from Household-Level Data</li>
+    <li>Housing Assistance and Labor Supply: The Case of Rent Control, with Hanchen Jiang and Huan Deng</li>
+    <li>The Long-Run and Intergenerational Impacts of Credit Access on Wealth: Evidence from Bank Deregulations, with John Anders and Craig Carpenter (Census RDC project, in preparation for NSF submission)</li>
+    <li>Housing Affordability and Fertility Sentiment: Evidence from Large Language Models and Reddit Data, with Haihua Chen (in preparation for Russell Sage Foundation submission)</li>
+    <li>The Geographic Divergence of Fertility Rates: Evidence from Restricted CDC National Vital Statistics Data</li>
+    <li>Housing Market Dynamics and Household Time Use, with Jiao Yang and Xiaolong Hou</li>
+    <li>Zoning Reform as Childcare Policy: Evidence from Accessory Dwelling Unit (ADU) Legalization</li>
+  </ul>
+</details>
 
 ## Publications
 
-#### Invited Chapters
-
-<div class="paper">
-  <span class="title">Causal Analysis of Child-Care Policies</span>
-  <span class="meta">Invited chapter, <i>Handbook of Labor, Human Resources, and Population Economics</i>. With <a href="https://sites.google.com/view/hjiang/">Hanchen Jiang</a>.</span>
-</div>
-
 #### Peer-Reviewed Journal Articles
 
-<div class="paper">
+<ol class="pub-list">
+<li class="paper">
   <span class="title">Does Rent Regulation Affect Tenant Unemployment? Evidence from New York City</span>
   <span class="meta"><i>Journal of Urban Economics</i>, 149, 2025. With <a href="https://sites.google.com/view/hjiang/">Hanchen Jiang</a> and <a href="https://www.luisequintero.org/">Luis Quintero</a>.</span>
   <span class="links">
@@ -285,92 +282,100 @@ editorial board of *International Studies of Economics*.
       of rent regulation.
     </p>
   </details>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">Housing Wealth as Precautionary Saving: Evidence from Urban China</span>
   <span class="meta"><i>Journal of Financial and Quantitative Analysis</i>, 57(2), 761-789, 2022. With <a href="https://priceschool.usc.edu/people/gary-dean-painter/">Gary Painter</a> and <a href="https://sem.tongji.edu.cn/semen/12410.html">Ninghua Zhong</a>.</span>
   <span class="links">
     <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/housing-wealth-as-precautionary-saving-evidence-from-urban-china/F89D4B7E92E87AC2C8406B1B698F4622">Journal</a>
     <a href="https://lusk.usc.edu/sites/default/files/working_papers/Housing_Wealth_as_Precautionary_Savings_2020_07_07.pdf">Working paper</a>
   </span>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">Human Capital Externalities or Consumption Spillovers? The Effect of High-Skill Human Capital across Low-Skill Labor Markets</span>
   <span class="meta"><i>Regional Science and Urban Economics</i>, 87, 2021. With <a href="https://sites.google.com/site/shimengliuecon/">Shimeng Liu</a>. Homer Hoyt Institute Best Paper Award, Asian Real Estate Society.</span>
   <span class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S0166046220303057">Journal</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335809">Working paper</a>
   </span>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">Land Use Regulations and Urban Growth of African Americans</span>
   <span class="meta"><i>Economic Development Quarterly</i>, 35(4), 338-350, 2021. Single authored.</span>
   <span class="links">
     <a href="https://journals.sagepub.com/doi/abs/10.1177/08912424211032291?journalCode=edqa">Journal</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051843">Working paper</a>
   </span>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">Impact of Land Use Regulation across the Conditional Distribution of Home Prices: An Application of Quantile Regression for Group-Level Treatments</span>
   <span class="meta"><i>Annals of Regional Science</i>, 66, 655-676, 2021. With <a href="https://profiles.utsouthwestern.edu/profile/144971/tammy-leonard.html">Tammy Leonard</a> and <a href="https://www.odu.edu/directory/dr-lei-zhang">Lei Zhang</a>.</span>
   <span class="links">
     <a href="https://link.springer.com/article/10.1007/s00168-020-01032-z">Journal</a>
   </span>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">Property Tax Limits and Female Labor Supply: Evidence from the Housing Boom and Bust</span>
   <span class="meta"><i>Journal of Housing Economics</i>, 50, 2020. With <a href="https://sites.google.com/site/shimengliuecon/">Shimeng Liu</a>.</span>
   <span class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S1051137720300504">Journal</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666755">Working paper</a>
   </span>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">Housing Demand and Household Saving in China: Evidence from a Housing Reform</span>
   <span class="meta"><i>Journal of Housing Economics</i>, 49, 2020. With <a href="https://econ.cufe.edu.cn/info/1032/5944.htm">Binkai Chen</a> and <a href="https://sem.tongji.edu.cn/semen/12410.html">Ninghua Zhong</a>.</span>
   <span class="links">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1051137720300292">Journal</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051846">Working paper</a>
   </span>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">Impact of Property Tax Abatement Incentives on Economic Growth</span>
   <span class="meta"><i>Economic Development Quarterly</i>, 34(2), 209-221, 2020. With <a href="https://profiles.utsouthwestern.edu/profile/144971/tammy-leonard.html">Tammy Leonard</a>, <a href="https://www.odu.edu/directory/dr-lei-zhang">Lei Zhang</a>, and Connor Reed.</span>
   <span class="links">
     <a href="https://journals.sagepub.com/doi/abs/10.1177/0891242420911712">Journal</a>
   </span>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">The Effect of Home Ownership on Post-Unemployment Wages</span>
   <span class="meta"><i>Regional Science and Urban Economics</i> (lead article), 74, 1-17, 2019. Single authored.</span>
   <span class="links">
     <a href="http://www.sciencedirect.com/science/article/pii/S0166046217303186">Journal</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051836">Working paper</a>
   </span>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">Market Facilitation by Local Government and Firm Efficiency: Evidence from China</span>
   <span class="meta"><i>Journal of Corporate Finance</i>, 42, 460-480, 2017. With Robert Cull, Lixin Colin Xu, Li-An Zhou, and Tian Zhu.</span>
   <span class="links">
     <a href="http://www.sciencedirect.com/science/article/pii/S092911991500070X">Journal</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2350534">Working paper</a>
   </span>
-</div>
+</li>
 
-<div class="paper">
+<li class="paper">
   <span class="title">Environmental Compliance and Firm Performance: Evidence from China</span>
   <span class="meta"><i>Oxford Bulletin of Economics and Statistics</i>, 74(3), 397-424, 2012. With <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/y/239558.htm">Yang Yao</a>.</span>
   <span class="links">
     <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0084.2011.00649.x/abstract">Journal</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2050237">Working paper</a>
   </span>
+</li>
+</ol>
+
+#### Invited Chapters
+
+<div class="paper">
+  <span class="title">Causal Analysis of Child-Care Policies</span>
+  <span class="meta">Invited chapter, <i>Handbook of Labor, Human Resources, and Population Economics</i>. With <a href="https://sites.google.com/view/hjiang/">Hanchen Jiang</a>.</span>
 </div>

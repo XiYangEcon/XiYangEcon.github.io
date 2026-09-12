@@ -13,18 +13,13 @@ lang: en-US
 author:
   name: Xi Yang
   email: Xi.Yang@UNT.edu
-  twitter: SheenEcon
-
-twitter:
-  username: SheenEcon
-  card: summary
 
 social:
   name: Xi Yang
   links:
     - https://scholar.google.com/citations?user=53Hr2jgAAAAJ&hl=en
     - https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1331861
-    - https://x.com/SheenEcon
+    - https://www.linkedin.com/in/xi-yang-8a829815/
 
 google_analytics: G-CQ7BQWV1WC
 
@@ -53,5 +48,5 @@ profiles:
   ssrn: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1331861
   # repec: https://ideas.repec.org/f/pyaXX.html      # TODO add your IDEAS/RePEc author page
   # orcid: https://orcid.org/0000-0000-0000-0000     # TODO add your ORCID iD
-  x: https://x.com/SheenEcon
+  linkedin: https://www.linkedin.com/in/xi-yang-8a829815/
   # bluesky: https://bsky.app/profile/YOURHANDLE     # TODO add if you use Bluesky

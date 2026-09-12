@@ -38,14 +38,14 @@
           {% if site.profiles.ssrn %}<a href="{{ site.profiles.ssrn }}">SSRN</a>{% endif %}
           {% if site.profiles.repec %}<a href="{{ site.profiles.repec }}">IDEAS/RePEc</a>{% endif %}
           {% if site.profiles.orcid %}<a href="{{ site.profiles.orcid }}">ORCID</a>{% endif %}
-          {% if site.profiles.x %}<a href="{{ site.profiles.x }}">X (@SheenEcon)</a>{% endif %}
+          {% if site.profiles.linkedin %}<a href="{{ site.profiles.linkedin }}">LinkedIn</a>{% endif %}
           {% if site.profiles.bluesky %}<a href="{{ site.profiles.bluesky }}">Bluesky</a>{% endif %}
         </p>
       </header>
 
       <section id="content">
         <nav class="navbar" aria-label="Main">
-          <a href="{{ "/" | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a>
+          <a href="{{ "/" | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home and Research</a>
           <a href="{{ site.cv | relative_url }}">CV</a>
           <a href="{{ "/teaching.html" | relative_url }}"{% if page.url contains "teaching" %} aria-current="page"{% endif %}>Teaching</a>
         </nav>

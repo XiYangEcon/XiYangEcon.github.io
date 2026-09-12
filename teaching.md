@@ -49,14 +49,6 @@ research assistantships in housing and labor economics.
   <span class="terms">2015</span>
 </div>
 
-## Courses Prepared to Teach
-
-<ul class="wip">
-  <li>Housing Policy and Markets</li>
-  <li>Urban and Housing Economics</li>
-  <li>Quantitative Methods for Planning Research</li>
-</ul>
-
 ## Advising
 
 **Graduate research assistants and advisees**, with placements: Sakir Inteser
