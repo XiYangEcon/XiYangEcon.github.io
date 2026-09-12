@@ -86,6 +86,10 @@ strong {
     color: var(--ink);
 }
 
+strong.hl {
+    color: var(--brand);
+}
+
 small {
     font-size: 14px;
 }
