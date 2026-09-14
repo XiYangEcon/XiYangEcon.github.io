@@ -11,7 +11,7 @@ finance</strong>.
 
 ## Working Papers
 
-#### Revise and Resubmit
+#### Working Papers: R&amp;R
 
 <div class="paper">
   <span class="title">More Credit, More Babies? Bank Credit Expansion, Housing Prices, and Fertility</span>
