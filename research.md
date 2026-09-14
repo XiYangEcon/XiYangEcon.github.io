@@ -42,7 +42,7 @@ finance</strong>.
   <span class="title">The Finance-Education Nexus: Educational Consequences of U.S. Interstate Bank Branching Deregulation</span>
   <span class="meta">with <a href="https://sites.google.com/view/jian-zou">Jian Zou</a></span>
   <span class="links">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608694">Working paper</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608694">SSRN working paper</a>
   </span>
   <details>
     <summary>Abstract</summary>
@@ -65,10 +65,7 @@ finance</strong>.
 
 <div class="paper">
   <span class="title">Fertility Rates for Renters Have Fallen More than for Owners: What Explains the Divergence?</span>
-  <span class="meta">with Jung Hyun Choi (Urban Institute)</span>
-  <span class="links">
-    <a href="mailto:xi.yang@unt.edu?subject=Draft%20request">Draft available on request</a>
-  </span>
+  <span class="meta">with <a href="https://www.urban.org/author/jung-hyun-choi">Jung Hyun Choi</a> (Urban Institute)</span>
 </div>
 
 #### Working Papers
@@ -155,7 +152,7 @@ finance</strong>.
 
 <div class="paper">
   <span class="title">Land Use Regulation, Housing Costs, and Childcare Costs</span>
-  <span class="meta">with Chang Jae (CJ) Lee</span>
+  <span class="meta">with <a href="https://sites.google.com/view/cjlee/about">Chang Jae (CJ) Lee</a></span>
 </div>
 
 ## Publications
@@ -168,7 +165,7 @@ finance</strong>.
   <span class="meta"><i>Journal of Urban Economics</i>, 149, 2025. With <a href="https://sites.google.com/view/hjiang/">Hanchen Jiang</a> and <a href="https://www.luisequintero.org/">Luis Quintero</a>.</span>
   <span class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S0094119025000555?dgcid=author">Journal</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964">Working paper</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4034964">SSRN working paper</a>
   </span>
   <details>
     <summary>Abstract</summary>
@@ -187,7 +184,7 @@ finance</strong>.
 
 <li class="paper">
   <span class="title">Housing Wealth as Precautionary Saving: Evidence from Urban China</span>
-  <span class="meta"><i>Journal of Financial and Quantitative Analysis</i>, 57(2), 761-789, 2022. With <a href="https://priceschool.usc.edu/people/gary-dean-painter/">Gary Painter</a> and <a href="https://sem.tongji.edu.cn/semen/12410.html">Ninghua Zhong</a>.</span>
+  <span class="meta"><i>Journal of Financial and Quantitative Analysis</i>, 57(2), 761-789, 2022. With <a href="https://www.business.uc.edu/about/centers-partnerships/real-estate/faculty-staff.html">Gary Painter</a> and <a href="https://sem.tongji.edu.cn/semen/12410.html">Ninghua Zhong</a>.</span>
   <span class="links">
     <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/housing-wealth-as-precautionary-saving-evidence-from-urban-china/F89D4B7E92E87AC2C8406B1B698F4622">Journal</a>
     <a href="https://lusk.usc.edu/sites/default/files/working_papers/Housing_Wealth_as_Precautionary_Savings_2020_07_07.pdf">Working paper</a>
@@ -199,7 +196,7 @@ finance</strong>.
   <span class="meta"><i>Regional Science and Urban Economics</i>, 87, 2021. With <a href="https://sites.google.com/site/shimengliuecon/">Shimeng Liu</a>. Homer Hoyt Institute Best Paper Award, Asian Real Estate Society.</span>
   <span class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S0166046220303057">Journal</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335809">Working paper</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335809">SSRN working paper</a>
   </span>
 </li>
 
@@ -208,7 +205,7 @@ finance</strong>.
   <span class="meta"><i>Economic Development Quarterly</i>, 35(4), 338-350, 2021. Single authored.</span>
   <span class="links">
     <a href="https://journals.sagepub.com/doi/abs/10.1177/08912424211032291?journalCode=edqa">Journal</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051843">Working paper</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051843">SSRN working paper</a>
   </span>
 </li>
 
@@ -225,7 +222,7 @@ finance</strong>.
   <span class="meta"><i>Journal of Housing Economics</i>, 50, 2020. With <a href="https://sites.google.com/site/shimengliuecon/">Shimeng Liu</a>.</span>
   <span class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S1051137720300504">Journal</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666755">Working paper</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2666755">SSRN working paper</a>
   </span>
 </li>
 
@@ -234,7 +231,7 @@ finance</strong>.
   <span class="meta"><i>Journal of Housing Economics</i>, 49, 2020. With <a href="https://econ.cufe.edu.cn/info/1032/5944.htm">Binkai Chen</a> and <a href="https://sem.tongji.edu.cn/semen/12410.html">Ninghua Zhong</a>.</span>
   <span class="links">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1051137720300292">Journal</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051846">Working paper</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051846">SSRN working paper</a>
   </span>
 </li>
 
@@ -251,7 +248,7 @@ finance</strong>.
   <span class="meta"><i>Regional Science and Urban Economics</i> (lead article), 74, 1-17, 2019. Single authored.</span>
   <span class="links">
     <a href="http://www.sciencedirect.com/science/article/pii/S0166046217303186">Journal</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051836">Working paper</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051836">SSRN working paper</a>
   </span>
 </li>
 
@@ -260,16 +257,16 @@ finance</strong>.
   <span class="meta"><i>Journal of Corporate Finance</i>, 42, 460-480, 2017. With Robert Cull, Lixin Colin Xu, Li-An Zhou, and Tian Zhu.</span>
   <span class="links">
     <a href="http://www.sciencedirect.com/science/article/pii/S092911991500070X">Journal</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2350534">Working paper</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2350534">SSRN working paper</a>
   </span>
 </li>
 
 <li class="paper">
   <span class="title">Environmental Compliance and Firm Performance: Evidence from China</span>
-  <span class="meta"><i>Oxford Bulletin of Economics and Statistics</i>, 74(3), 397-424, 2012. With <a href="https://en.nsd.pku.edu.cn/faculty/fulltime/y/239558.htm">Yang Yao</a>.</span>
+  <span class="meta"><i>Oxford Bulletin of Economics and Statistics</i>, 74(3), 397-424, 2012. With <a href="https://dafi.sufe.edu.cn/en/bb/52/c12631a244562/page.htm">Yang Yao</a>.</span>
   <span class="links">
     <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0084.2011.00649.x/abstract">Journal</a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2050237">Working paper</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2050237">SSRN working paper</a>
   </span>
 </li>
 </ol>
