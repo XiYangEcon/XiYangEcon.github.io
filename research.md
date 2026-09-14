@@ -11,7 +11,7 @@ finance</strong>.
 
 ## Working Papers
 
-#### Working Papers: R&amp;R
+#### Working Papers: Revise and Resubmit
 
 <div class="paper">
   <span class="title">More Credit, More Babies? Bank Credit Expansion, Housing Prices, and Fertility</span>
@@ -67,8 +67,6 @@ finance</strong>.
   <span class="title">Fertility Rates for Renters Have Fallen More than for Owners: What Explains the Divergence?</span>
   <span class="meta">with <a href="https://www.urban.org/author/jung-hyun-choi">Jung Hyun Choi</a> (Urban Institute)</span>
 </div>
-
-#### Working Papers
 
 <div class="paper">
   <span class="title">Housing Wealth and Female Labor Supply: Evidence from Geographically Linked Microdata</span>
