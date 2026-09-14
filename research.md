@@ -141,16 +141,6 @@ finance</strong>.
 </div>
 
 <div class="paper">
-  <span class="title">Housing Wealth, Liquidity, and Retirement Timing: Evidence from Linked Administrative Data</span>
-  <span class="meta">Single authored. U.S. Census Research Data Center project.</span>
-</div>
-
-<div class="paper">
-  <span class="title">Housing Wealth and Intergenerational Investment: Evidence on College Enrollment from Linked Administrative Data</span>
-  <span class="meta">Single authored. U.S. Census Research Data Center project.</span>
-</div>
-
-<div class="paper">
   <span class="title">Land Use Regulation, Housing Costs, and Childcare Costs</span>
   <span class="meta">with <a href="https://sites.google.com/view/cjlee/about">Chang Jae (CJ) Lee</a></span>
 </div>
