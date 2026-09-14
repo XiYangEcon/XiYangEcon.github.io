@@ -9,8 +9,6 @@ My research fields are <strong class="hl">housing and urban economics</strong>,
 <strong class="hl">labor economics</strong>, and <strong class="hl">household
 finance</strong>.
 
-## Working Papers
-
 #### Working Papers: Revise and Resubmit
 
 <div class="paper">
