@@ -263,5 +263,5 @@ finance</strong>.
 
 <div class="paper">
   <span class="title">Causal Analysis of Child-Care Policies</span>
-  <span class="meta">Invited chapter, <i>Handbook of Labor, Human Resources, and Population Economics</i>. With <a href="https://sites.google.com/view/hjiang/">Hanchen Jiang</a>.</span>
+  <span class="meta">Invited chapter, <i>Handbook of Labor, Human Resources, and Population Economics</i>. With <a href="https://sites.google.com/view/hjiang/">Hanchen Jiang</a> and <a href="https://sites.google.com/view/cjlee/about">Chang Jae (CJ) Lee</a>.</span>
 </div>

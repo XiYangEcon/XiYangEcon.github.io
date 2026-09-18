@@ -46,8 +46,8 @@
         <nav class="navbar" aria-label="Main">
           <a href="{{ "/" | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a>
           <a href="{{ "/research.html" | relative_url }}"{% if page.url contains "research" %} aria-current="page"{% endif %}>Research</a>
-          <a href="{{ site.cv | relative_url }}">CV</a>
           <a href="{{ "/teaching.html" | relative_url }}"{% if page.url contains "teaching" %} aria-current="page"{% endif %}>Teaching</a>
+          <a href="{{ site.cv | relative_url }}">CV</a>
         </nav>
 
       {{ content }}

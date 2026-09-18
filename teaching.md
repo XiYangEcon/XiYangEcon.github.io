@@ -40,7 +40,7 @@ research assistantships in housing and labor economics.
 ## Tongji University and University of Southern California
 
 <div class="course">
-  <b>Urban and Housing Economics</b> (invited summer course, Tongji University)
+  <b>Real Estate Economics</b> (invited summer course, Tongji University)
   <span class="terms">2018 to 2023</span>
 </div>
 
