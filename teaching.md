@@ -5,8 +5,8 @@ description: Courses and advising by Xi Yang at the University of North Texas, T
 
 <!-- markdownlint-disable-file MD033 MD036 MD041 -->
 
-I teach in labor economics, microeconomic theory, urban and housing economics,
-and the economics of inequality. My courses emphasize applied microeconometrics
+I teach in labor economics, microeconomic theory, real estate and urban
+economics, and the economics of inequality. My courses emphasize applied microeconometrics
 and work with public microdata. I welcome inquiries from students interested in
 research assistantships in housing and labor economics.
 
