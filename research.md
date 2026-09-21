@@ -141,6 +141,25 @@ finance</strong>.
 <div class="paper">
   <span class="title">Land Use Regulation, Housing Costs, and Childcare Costs</span>
   <span class="meta">with <a href="https://sites.google.com/view/cjlee/about">Chang Jae (CJ) Lee</a></span>
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      This paper estimates the causal effect of local housing price growth on childcare
+      costs and fertility in the United States using an instrumental variable strategy that
+      exploits plausibly exogenous variation in housing supply conditions from the
+      land-unavailability instrument. Theory predicts an ambiguous effect: housing appreciation
+      raises providers' operating costs (supply-side channel) but also reduces fertility and
+      contracts the local pool of childcare-demanding households (demand-side channel). Using a
+      county-year panel of U.S. counties over 2011-2019, we find that a one-percent increase in
+      local housing prices reduces center-based childcare price growth by 0.12-0.25 percent and
+      reduces the local birth rate by roughly 0.35 births per 1,000 women ages 15-50. We find no
+      corresponding response in childcare employment, wages, or establishment counts, ruling out
+      a dominant supply-side channel. The results imply that falling childcare prices in
+      high-cost housing markets reflect demographic contraction rather than improvements in
+      affordability, with direct implications for how policymakers interpret price movements and
+      for the joint design of housing and childcare policy amid persistent fertility decline.
+    </p>
+  </details>
 </div>
 
 ## Publications
