@@ -5,9 +5,9 @@ description: Working papers and publications by Xi Yang in housing and urban eco
 
 <!-- markdownlint-disable-file MD033 MD036 MD041 -->
 
-My research fields are <strong class="hl">housing and urban economics</strong>,
-<strong class="hl">labor economics</strong>, and <strong class="hl">household
-finance</strong>.
+My research fields are <strong class="hl">real estate and urban
+economics</strong>, <strong class="hl">household finance</strong> and
+<strong class="hl">labor economics</strong>.
 
 #### Working Papers: Revise and Resubmit
 

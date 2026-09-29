@@ -16,17 +16,17 @@ Visiting Scholar at UC Berkeley's Institute for Research on Labor and
 Employment, and I have been a Special Sworn Status researcher with the U.S.
 Census Bureau since 2021.
 
-My research fields are <strong class="hl">housing and urban economics</strong>,
-<strong class="hl">labor economics</strong>, and <strong class="hl">household
-finance</strong>. My research examines <strong class="hl">housing and
-families</strong>:
-how housing markets and policies shape household decisions and economic
-outcomes. I study how housing price dynamics, housing costs, and housing
-wealth affect fertility, labor market outcomes, household finance, and
-economic inequality, using restricted Census microdata and
-quasi-experimental methods. I also examine housing policies, including land
-use regulation, rent control, property taxes, and bank deregulation, and
-their broader effects on household welfare and the economy.
+My research fields are <strong class="hl">real estate and urban
+economics</strong>, <strong class="hl">household finance</strong> and
+<strong class="hl">labor economics</strong>. My research examines <strong
+class="hl">housing and families</strong>: how housing markets and policies
+shape household decisions and economic outcomes. I study how housing price
+dynamics, housing costs, and housing wealth affect household finance,
+fertility, labor market outcomes, and economic inequality, using restricted
+Census microdata and quasi-experimental methods. I also examine housing
+policies, including bank deregulation, land use regulation, rent control,
+and property taxes, and their broader effects on household welfare and the
+economy.
 
 ## News
 
