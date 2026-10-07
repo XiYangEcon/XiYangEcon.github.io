@@ -9,7 +9,7 @@ My research fields are <strong class="hl">real estate and urban
 economics</strong>, <strong class="hl">household finance</strong> and
 <strong class="hl">labor economics</strong>.
 
-#### Working Papers: Revise and Resubmit
+#### Working Papers: In Submission
 
 <div class="paper">
   <span class="title">More Credit, More Babies? Bank Credit Expansion, Housing Prices, and Fertility</span>
